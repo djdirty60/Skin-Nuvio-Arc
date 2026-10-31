@@ -1,300 +1,300 @@
-2026-10-31 20:11:31.413 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:31.413 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:31.413 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:31.913 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:31.913 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:31.913 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:31.913 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:32.413 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:32.413 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:32.413 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:32.413 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:32.913 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:32.913 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:32.913 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:32.913 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:33.142 T:5657     info <general>: [cidriver] power: c2 click prop=clicked dialog=False
-2026-10-31 20:11:33.182 T:5350    debug <general>: Activating window ID: 10111
-2026-10-31 20:11:33.182 T:5350    debug <general>: ------ Window Init (DialogButtonMenu.xml) ------
-2026-10-31 20:11:33.417 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:33.418 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:33.418 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:33.418 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:33.919 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:33.919 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:33.919 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:33.919 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:34.419 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:34.419 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:34.419 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:34.419 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:34.919 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:34.919 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:34.919 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:34.919 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:35.419 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:35.419 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:35.419 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:35.419 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:35.920 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:35.920 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:35.920 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:35.920 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:36.181 T:5350    debug <general>: ------ Window Deinit (DialogButtonMenu.xml) ------
-2026-10-31 20:11:36.181 T:5350    debug <general>: Activating window ID: 10003
-2026-10-31 20:11:36.385 T:5350    debug <general>: ------ Window Deinit (Home.xml) ------
-2026-10-31 20:11:36.398 T:5350     info <general>: Attempting to default to: 
-2026-10-31 20:11:36.398 T:5350    debug <general>: ------ Window Init (FileManager.xml) ------
-2026-10-31 20:11:36.398 T:5350     info <general>: Loading skin file: FileManager.xml, load type: KEEP_IN_MEMORY
-2026-10-31 20:11:36.399 T:5889    debug <general>: Thread waiting start, auto delete: false
-2026-10-31 20:11:36.399 T:5889    debug <general>: Thread waiting 140529182439104 terminating
-2026-10-31 20:11:36.399 T:5890    debug <general>: Thread waiting start, auto delete: false
-2026-10-31 20:11:36.399 T:5890    debug <general>: Thread waiting 140529182439104 terminating
-2026-10-31 20:11:36.420 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:36.420 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:36.420 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:36.420 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:36.923 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:36.924 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:36.924 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:36.924 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:37.425 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:37.425 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:37.425 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:37.425 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:37.925 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:37.925 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:37.925 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:37.925 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:38.425 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:38.425 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:38.425 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:38.425 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:38.925 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:38.925 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:38.925 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:38.925 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:39.164 T:5657     info <general>: [cidriver] power: c1 click filemanager=True dialog=False
-2026-10-31 20:11:39.214 T:5350    debug <general>: Saving screenshot /tmp/ci/out/new-1-10c-filemanager.png
-2026-10-31 20:11:39.214 T:5350    debug <general>: cached image '/tmp/ci/out/new-1-10c-filemanager.png' size 1920x1080
-2026-10-31 20:11:39.426 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:39.426 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:39.426 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:39.426 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:39.926 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:39.926 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:39.926 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:39.926 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:40.426 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:40.426 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:40.426 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:40.426 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:40.926 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:40.926 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:40.926 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:40.927 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:41.182 T:5350    debug <general>: Activating window ID: 10000
-2026-10-31 20:11:41.378 T:5350    debug <general>: ------ Window Deinit (FileManager.xml) ------
-2026-10-31 20:11:41.394 T:5350    debug <general>: ------ Window Init (Home.xml) ------
-2026-10-31 20:11:41.396 T:5892    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:41.397 T:5892    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:41.397 T:5893    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:41.429 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:41.430 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:41.430 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:41.430 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:41.900 T:5893    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:41.932 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:41.933 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:41.933 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:41.933 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:42.434 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:42.434 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:42.434 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:42.434 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:42.934 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:42.934 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:42.934 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:42.934 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:43.168 T:5894    debug <general>: Thread LanguageInvoker start, auto delete: false
-2026-10-31 20:11:43.168 T:5894    debug <general>: initializing python engine.
-2026-10-31 20:11:43.168 T:5894    debug <general>: CPythonInvoker(33, special://skin/scripts/powermenu.py): start processing
-2026-10-31 20:11:43.208 T:5894    debug <general>: -->Python Interpreter Initialized<--
-2026-10-31 20:11:43.208 T:5894    debug <general>: 
+2026-10-31 20:19:54.805 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:54.805 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:55.306 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:55.306 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:55.306 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:55.306 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:55.806 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:55.806 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:55.806 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:55.806 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:55.881 T:5690     info <general>: [cidriver] power: c2 click prop=clicked dialog=False
+2026-10-31 20:19:55.921 T:5477    debug <general>: Activating window ID: 10111
+2026-10-31 20:19:55.921 T:5477    debug <general>: ------ Window Init (DialogButtonMenu.xml) ------
+2026-10-31 20:19:56.306 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:56.306 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:56.306 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:56.306 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:56.807 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:56.807 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:56.807 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:56.807 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:57.307 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:57.307 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:57.307 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:57.307 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:57.807 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:57.807 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:57.807 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:57.807 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:58.307 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:58.307 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:58.307 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:58.308 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:58.808 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:58.808 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:58.808 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:58.808 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:58.883 T:5477    debug <general>: ------ Window Deinit (DialogButtonMenu.xml) ------
+2026-10-31 20:19:58.883 T:5477    debug <general>: Activating window ID: 10003
+2026-10-31 20:19:59.077 T:5477    debug <general>: ------ Window Deinit (Home.xml) ------
+2026-10-31 20:19:59.099 T:5477     info <general>: Attempting to default to: 
+2026-10-31 20:19:59.099 T:5477    debug <general>: ------ Window Init (FileManager.xml) ------
+2026-10-31 20:19:59.099 T:5477     info <general>: Loading skin file: FileManager.xml, load type: KEEP_IN_MEMORY
+2026-10-31 20:19:59.100 T:5981    debug <general>: Thread waiting start, auto delete: false
+2026-10-31 20:19:59.100 T:5981    debug <general>: Thread waiting 140552502761152 terminating
+2026-10-31 20:19:59.101 T:5982    debug <general>: Thread waiting start, auto delete: false
+2026-10-31 20:19:59.101 T:5982    debug <general>: Thread waiting 140552502761152 terminating
+2026-10-31 20:19:59.308 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:59.308 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:59.308 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:59.308 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:19:59.808 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:19:59.808 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:19:59.808 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:19:59.808 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:00.309 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:00.309 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:00.309 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:00.309 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:00.809 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:00.809 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:00.809 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:00.809 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:01.309 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:01.309 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:01.309 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:01.309 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:01.810 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:01.810 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:01.810 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:01.810 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:01.917 T:5690     info <general>: [cidriver] power: c1 click filemanager=True dialog=False
+2026-10-31 20:20:01.969 T:5477    debug <general>: Saving screenshot /tmp/ci/out/new-1-10c-filemanager.png
+2026-10-31 20:20:01.970 T:5477    debug <general>: cached image '/tmp/ci/out/new-1-10c-filemanager.png' size 1920x1080
+2026-10-31 20:20:02.310 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:02.310 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:02.310 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:02.310 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:02.810 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:02.810 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:02.810 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:02.810 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:03.311 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:03.311 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:03.311 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:03.311 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:03.811 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:03.811 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:03.811 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:03.811 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:03.922 T:5477    debug <general>: Activating window ID: 10000
+2026-10-31 20:20:04.085 T:5676    debug <general>: Thread JobWorker 140554616698560 terminating (autodelete)
+2026-10-31 20:20:04.122 T:5477    debug <general>: ------ Window Deinit (FileManager.xml) ------
+2026-10-31 20:20:04.145 T:5477    debug <general>: ------ Window Init (Home.xml) ------
+2026-10-31 20:20:04.147 T:5985    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:04.149 T:5985    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:04.149 T:5986    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:04.316 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:04.316 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:04.316 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:04.317 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:04.523 T:5851    debug <general>: Thread JobWorker 140552855086784 terminating (autodelete)
+2026-10-31 20:20:04.534 T:5852    debug <general>: Thread JobWorker 140552838305472 terminating (autodelete)
+2026-10-31 20:20:04.653 T:5986    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:04.819 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:04.819 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:04.819 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:04.820 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:05.323 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:05.323 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:05.323 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:05.324 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:05.825 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:05.825 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:05.825 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:05.825 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:05.939 T:5987    debug <general>: Thread LanguageInvoker start, auto delete: false
+2026-10-31 20:20:05.939 T:5987    debug <general>: initializing python engine.
+2026-10-31 20:20:05.939 T:5987    debug <general>: CPythonInvoker(32, special://skin/scripts/powermenu.py): start processing
+2026-10-31 20:20:05.998 T:5987    debug <general>: -->Python Interpreter Initialized<--
+2026-10-31 20:20:05.998 T:5987    debug <general>: 
                                                    
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33, special://skin/scripts/powermenu.py): the source file to load is "special://skin/scripts/powermenu.py" ("/home/runner/.kodi/addons/skin.lucent/scripts/powermenu.py")
-2026-10-31 20:11:43.208 T:5894  warning <general>: CPythonInvoker(33): Script invoked without an addon. Adding all addon modules installed to python path as fallback. This behaviour will be removed in future version.
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33): full python path:
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):   custom python path:
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):     /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):     /usr/share/kodi/addons/script.module.pil/lib
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):     /usr/share/kodi/addons/script.module.pycryptodome/lib
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):   default python path:
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):     /usr/lib/python312.zip
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):     /usr/lib/python3.12
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):     /usr/lib/python3.12/lib-dynload
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):     /usr/local/lib/python3.12/dist-packages
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):     /usr/lib/python3/dist-packages
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33): adding args:
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):  powermenu.py
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33):  reset
-2026-10-31 20:11:43.208 T:5894    debug <general>: CPythonInvoker(33, special://skin/scripts/powermenu.py): entering source directory /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 20:11:43.294 T:5895    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.295 T:5895    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.295 T:5896    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.296 T:5896    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.296 T:5897    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.297 T:5897    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.297 T:5898    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.299 T:5898    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.299 T:5899    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.300 T:5899    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.300 T:5900    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.301 T:5900    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.301 T:5901    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.302 T:5901    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.302 T:5902    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.303 T:5902    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.303 T:5903    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.304 T:5903    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.304 T:5904    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.305 T:5904    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.305 T:5905    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.306 T:5905    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.306 T:5906    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.350 T:5894    debug <general>: CPythonInvoker(33, special://skin/scripts/powermenu.py): script successfully run
-2026-10-31 20:11:43.350 T:5894    debug <general>: onExecutionDone(33, special://skin/scripts/powermenu.py)
-2026-10-31 20:11:43.355 T:5894    debug <general>: Python interpreter stopped
-2026-10-31 20:11:43.355 T:5894    debug <general>: Thread LanguageInvoker 140529148876480 terminating
-2026-10-31 20:11:43.388 T:5906    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.388 T:5907    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.390 T:5907    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.390 T:5908    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.391 T:5908    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.391 T:5909    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.392 T:5909    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.392 T:5910    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.393 T:5910    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.393 T:5911    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.394 T:5911    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.394 T:5912    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.395 T:5912    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.395 T:5913    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:11:43.434 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:43.434 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:43.434 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:43.434 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:43.896 T:5913    debug <general>: Thread Timer 140530725942976 terminating
-2026-10-31 20:11:43.934 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:43.934 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:43.934 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:43.934 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:44.435 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:44.435 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:44.435 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:44.435 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:44.935 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:44.935 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:44.935 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:44.935 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:45.435 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:45.435 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:45.435 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:45.435 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:45.935 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:45.935 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:45.935 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:45.935 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:46.187 T:5657     info <general>: [cidriver] power: after reset c1='' hidequit=False
-2026-10-31 20:11:46.189 T:5657     info <general>: [cidriver] done
-2026-10-31 20:11:46.189 T:5657    debug <general>: CPythonInvoker(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py): script successfully run
-2026-10-31 20:11:46.189 T:5657    debug <general>: onExecutionDone(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py)
-2026-10-31 20:11:46.193 T:5657    debug <general>: Python interpreter stopped
-2026-10-31 20:11:46.193 T:5657    debug <general>: Thread LanguageInvoker 140530054854336 terminating
-2026-10-31 20:11:46.228 T:5350     info <general>: Stopping the application...
-2026-10-31 20:11:46.228 T:5350     info <general>: Stopping player
-2026-10-31 20:11:46.228 T:5649    debug <general>: Thread AlarmClock 140530709161664 terminating
-2026-10-31 20:11:46.228 T:5350     info <general>: Storing total System Uptime
-2026-10-31 20:11:46.228 T:5350     info <general>: Saving settings
-2026-10-31 20:11:46.229 T:5350     info <general>: Saving skin settings
-2026-10-31 20:11:46.230 T:5350     info <general>: Stopping all
-2026-10-31 20:11:46.230 T:5763    debug <general>: Thread JobWorker 140529501202112 terminating (autodelete)
-2026-10-31 20:11:46.230 T:5639    debug <general>: Thread JobWorker 140531027924672 terminating (autodelete)
-2026-10-31 20:11:46.230 T:5762    debug <general>: Thread JobWorker 140529517983424 terminating (autodelete)
-2026-10-31 20:11:46.230 T:5350    debug <general>: NetworkMessage - Signaling network services to stop
-2026-10-31 20:11:46.230 T:5350     info <general>: ES: Stopping event server
-2026-10-31 20:11:46.435 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:46.435 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:46.435 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:46.435 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:46.936 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:46.936 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:46.936 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:46.936 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:47.014 T:5660    debug <general>: Thread TCPServer 140529786418880 terminating
-2026-10-31 20:11:47.015 T:5659     info <general>: ES: UDP Event server stopped
-2026-10-31 20:11:47.015 T:5659    debug <general>: Thread EventServer 140530021291712 terminating
-2026-10-31 20:11:47.362 T:5661    debug <general>: Thread WSDiscoveryListenerUDP 140529769637568 terminating
-2026-10-31 20:11:47.362 T:5350     info <general>: CWSDiscoveryListenerUDP::Stop - Stopped
-2026-10-31 20:11:47.362 T:5350    debug <general>: NetworkMessage - Waiting for network services to stop
-2026-10-31 20:11:47.362 T:5350     info <general>: stopping zeroconf publishing
-2026-10-31 20:11:47.362 T:5350    debug <general>: CServiceAddonManager: stopping script.lucent.library.
-2026-10-31 20:11:47.362 T:5350    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): trigger Monitor abort request
-2026-10-31 20:11:47.363 T:5656    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script successfully run
-2026-10-31 20:11:47.363 T:5656     info <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): waiting on thread 140529752856256
-2026-10-31 20:11:47.436 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:47.436 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:47.436 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:47.436 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:47.463 T:5656    debug <general>: onExecutionDone(0, /home/runner/.kodi/addons/script.lucent.library/service.py)
-2026-10-31 20:11:47.471 T:5656    debug <general>: Python interpreter interrupted by user
-2026-10-31 20:11:47.471 T:5350    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script termination took 109ms
-2026-10-31 20:11:47.471 T:5350    debug <general>: CServiceAddonManager: stopping service.lucent.cidriver.
-2026-10-31 20:11:47.471 T:5350     info <general>: CServiceAddonManager: failed to stop service.lucent.cidriver (may have ended)
-2026-10-31 20:11:47.471 T:5656    debug <general>: Thread LanguageInvoker 140530289727168 terminating
-2026-10-31 20:11:47.936 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:47.936 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:47.936 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:47.936 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:48.436 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:48.436 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:48.436 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:48.436 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:48.936 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:48.937 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:48.937 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:48.937 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:49.437 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:49.437 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:49.437 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:49.437 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:49.937 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:49.937 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:49.937 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:49.937 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:50.437 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:50.437 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:50.437 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:50.437 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:50.937 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:50.937 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:50.937 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:50.937 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:51.438 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:51.438 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:51.438 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:51.438 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:51.938 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:51.938 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:51.938 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:51.938 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:52.438 T:5391     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:11:52.438 T:5391    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:11:52.438 T:5391    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:11:52.438 T:5390    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:11:52.477 T:5350    error <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script didn't stop in 5 seconds - let's kill it
-2026-10-31 20:11:52.478 T:5390    debug <general>: Thread ActiveAE 140531350894272 terminating
-2026-10-31 20:11:52.478 T:5391    debug <general>: Thread AESink 140531061487296 terminating
-2026-10-31 20:11:52.478 T:5350     info <general>: Application stopped
-2026-10-31 20:11:52.490 T:5768    debug <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script aborted
-2026-10-31 20:11:52.491 T:5768    debug <general>: onExecutionDone(5, special://skin/scripts/startup.py)
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32, special://skin/scripts/powermenu.py): the source file to load is "special://skin/scripts/powermenu.py" ("/home/runner/.kodi/addons/skin.lucent/scripts/powermenu.py")
+2026-10-31 20:20:05.998 T:5987  warning <general>: CPythonInvoker(32): Script invoked without an addon. Adding all addon modules installed to python path as fallback. This behaviour will be removed in future version.
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32): full python path:
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):   custom python path:
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):     /home/runner/.kodi/addons/skin.lucent/scripts
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):     /usr/share/kodi/addons/script.module.pil/lib
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):     /usr/share/kodi/addons/script.module.pycryptodome/lib
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):   default python path:
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):     /usr/lib/python312.zip
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):     /usr/lib/python3.12
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):     /usr/lib/python3.12/lib-dynload
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):     /usr/local/lib/python3.12/dist-packages
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):     /usr/lib/python3/dist-packages
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32): adding args:
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):  powermenu.py
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32):  reset
+2026-10-31 20:20:05.998 T:5987    debug <general>: CPythonInvoker(32, special://skin/scripts/powermenu.py): entering source directory /home/runner/.kodi/addons/skin.lucent/scripts
+2026-10-31 20:20:06.144 T:5988    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.147 T:5988    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.147 T:5989    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.149 T:5989    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.149 T:5990    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.150 T:5990    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.151 T:5991    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.152 T:5991    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.152 T:5992    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.154 T:5992    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.154 T:5993    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.155 T:5993    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.155 T:5994    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.157 T:5994    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.157 T:5995    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.159 T:5995    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.159 T:5996    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.160 T:5996    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.160 T:5997    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.162 T:5997    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.162 T:5998    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.163 T:5998    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.163 T:5999    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.202 T:5987    debug <general>: CPythonInvoker(32, special://skin/scripts/powermenu.py): script successfully run
+2026-10-31 20:20:06.202 T:5987    debug <general>: onExecutionDone(32, special://skin/scripts/powermenu.py)
+2026-10-31 20:20:06.205 T:5999    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.205 T:6000    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.207 T:6000    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.207 T:6001    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.207 T:5987    debug <general>: Python interpreter stopped
+2026-10-31 20:20:06.208 T:5987    debug <general>: Thread LanguageInvoker 140552519542464 terminating
+2026-10-31 20:20:06.209 T:6001    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.209 T:6002    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.210 T:6002    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.210 T:6003    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.212 T:6003    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.212 T:6004    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.213 T:6004    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.214 T:6005    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.215 T:6005    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.215 T:6006    debug <general>: Thread Timer start, auto delete: false
+2026-10-31 20:20:06.325 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:06.325 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:06.325 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:06.325 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:06.716 T:6006    debug <general>: Thread Timer 140554599917248 terminating
+2026-10-31 20:20:06.825 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:06.825 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:06.825 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:06.825 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:07.325 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:07.325 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:07.325 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:07.325 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:07.826 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:07.826 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:07.826 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:07.826 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:08.326 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:08.326 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:08.326 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:08.326 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:08.826 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:08.826 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:08.826 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:08.826 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:08.955 T:5690     info <general>: [cidriver] power: after reset c1='' hidequit=False
+2026-10-31 20:20:08.959 T:5690     info <general>: [cidriver] done
+2026-10-31 20:20:08.959 T:5690    debug <general>: CPythonInvoker(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py): script successfully run
+2026-10-31 20:20:08.959 T:5690    debug <general>: onExecutionDone(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py)
+2026-10-31 20:20:08.964 T:5690    debug <general>: Python interpreter stopped
+2026-10-31 20:20:08.964 T:5690    debug <general>: Thread LanguageInvoker 140553459066560 terminating
+2026-10-31 20:20:08.996 T:5477     info <general>: Stopping the application...
+2026-10-31 20:20:08.996 T:5477     info <general>: Stopping player
+2026-10-31 20:20:08.996 T:5681    debug <general>: Thread AlarmClock 140554583135936 terminating
+2026-10-31 20:20:08.996 T:5477     info <general>: Storing total System Uptime
+2026-10-31 20:20:08.996 T:5477     info <general>: Saving settings
+2026-10-31 20:20:08.998 T:5477     info <general>: Saving skin settings
+2026-10-31 20:20:08.999 T:5477     info <general>: Stopping all
+2026-10-31 20:20:08.999 T:5477    debug <general>: NetworkMessage - Signaling network services to stop
+2026-10-31 20:20:08.999 T:5477     info <general>: ES: Stopping event server
+2026-10-31 20:20:09.327 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:09.327 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:09.327 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:09.327 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:09.430 T:5693    debug <general>: Thread TCPServer 140553123522240 terminating
+2026-10-31 20:20:09.436 T:5692     info <general>: ES: UDP Event server stopped
+2026-10-31 20:20:09.436 T:5692    debug <general>: Thread EventServer 140553140303552 terminating
+2026-10-31 20:20:09.827 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:09.827 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:09.827 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:09.827 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:10.327 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:10.327 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:10.327 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:10.327 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:10.810 T:5694    debug <general>: Thread WSDiscoveryListenerUDP 140553106740928 terminating
+2026-10-31 20:20:10.810 T:5477     info <general>: CWSDiscoveryListenerUDP::Stop - Stopped
+2026-10-31 20:20:10.810 T:5477    debug <general>: NetworkMessage - Waiting for network services to stop
+2026-10-31 20:20:10.810 T:5477     info <general>: stopping zeroconf publishing
+2026-10-31 20:20:10.810 T:5477    debug <general>: CServiceAddonManager: stopping script.lucent.library.
+2026-10-31 20:20:10.810 T:5477    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): trigger Monitor abort request
+2026-10-31 20:20:10.810 T:5689    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script successfully run
+2026-10-31 20:20:10.810 T:5689     info <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): waiting on thread 140552871868096
+2026-10-31 20:20:10.827 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:10.827 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:10.827 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:10.827 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:10.910 T:5689    debug <general>: onExecutionDone(0, /home/runner/.kodi/addons/script.lucent.library/service.py)
+2026-10-31 20:20:10.920 T:5689    debug <general>: Python interpreter interrupted by user
+2026-10-31 20:20:10.920 T:5477    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script termination took 110ms
+2026-10-31 20:20:10.920 T:5689    debug <general>: Thread LanguageInvoker 140553475847872 terminating
+2026-10-31 20:20:10.920 T:5477    debug <general>: CServiceAddonManager: stopping service.lucent.cidriver.
+2026-10-31 20:20:10.920 T:5477     info <general>: CServiceAddonManager: failed to stop service.lucent.cidriver (may have ended)
+2026-10-31 20:20:11.328 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:11.328 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:11.328 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:11.328 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:11.828 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:11.828 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:11.828 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:11.828 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:12.328 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:12.328 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:12.328 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:12.328 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:12.829 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:12.829 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:12.829 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:12.829 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:13.329 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:13.329 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:13.329 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:13.329 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:13.829 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:13.829 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:13.829 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:13.829 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:14.330 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:14.330 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:14.330 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:14.330 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:14.830 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:14.830 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:14.830 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:14.830 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:15.330 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:15.330 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:15.330 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:15.330 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:15.830 T:5518     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:20:15.831 T:5518    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:20:15.831 T:5518    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:20:15.831 T:5517    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:20:15.920 T:5477    error <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script didn't stop in 5 seconds - let's kill it
+2026-10-31 20:20:15.920 T:5517    debug <general>: Thread ActiveAE 140554740430528 terminating
+2026-10-31 20:20:15.920 T:5518    debug <general>: Thread AESink 140554723649216 terminating
+2026-10-31 20:20:15.921 T:5477     info <general>: Application stopped
+2026-10-31 20:20:16.009 T:5857    debug <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script aborted
+2026-10-31 20:20:16.009 T:5857     info <general>: CPythonInvoker(5, special://skin/scripts/startup.py): waiting on thread 140552720869056
+2026-10-31 20:20:16.109 T:5857    debug <general>: onExecutionDone(5, special://skin/scripts/startup.py)
