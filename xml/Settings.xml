@@ -846,6 +846,13 @@
                         <visible>String.IsEqual(Container(9000).ListItem.Property(cat),lucent)</visible>
                     </item>
                     <item>
+                        <label>$LOCALIZE[31654]</label>
+                        <label2>$LOCALIZE[31655]</label2>
+                        <icon>icons/power.png</icon>
+                        <onclick>RunScript(special://skin/scripts/powermenu.py)</onclick>
+                        <visible>String.IsEqual(Container(9000).ListItem.Property(cat),lucent)</visible>
+                    </item>
+                    <item>
                         <label>$LOCALIZE[31648]</label>
                         <label2>$LOCALIZE[31650]</label2>
                         <icon>icons/view.png</icon>

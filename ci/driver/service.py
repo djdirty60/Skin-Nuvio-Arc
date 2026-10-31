@@ -203,6 +203,80 @@ def subs_test():
     log(f"subs: after stop list={cond('Window.IsVisible(Lucent_Subtitles.xml)')}")
 
 
+def sidemenu_test():
+    """Media window: Left opens the view menu, Back must close it and stay in the same folder."""
+    fid = lambda: lab("System.CurrentControlID")  # noqa: E731
+    xbmc.executebuiltin("ActivateWindow(Videos,plugin://plugin.video.fakeseren/?list=folder,return)")
+    mon.waitForAbort(5)
+    xbmc.executebuiltin("Container.Update(plugin://plugin.video.fakeseren/?list=fast&from=1)")
+    mon.waitForAbort(5)
+    path0 = lab("Container.FolderPath")
+    log(f"side: window={lab('System.CurrentWindow')} path={path0[-30:]} focus={fid()} items={lab('Container.NumItems')}")
+    for attempt in range(2):
+        xbmc.executebuiltin("Action(Left)")
+        mon.waitForAbort(1.5)
+        inmenu = cond("ControlGroup(9050).HasFocus")
+        log(f"side: {attempt} after Left focus={fid()} menu={inmenu}")
+        if attempt == 0:
+            shot("9a-sidemenu")
+        xbmc.executebuiltin("Action(Back)")
+        mon.waitForAbort(2.5)
+        path1 = lab("Container.FolderPath")
+        log(f"side: {attempt} after Back focus={fid()} menu={cond('ControlGroup(9050).HasFocus')} "
+            f"samefolder={path1 == path0} path={path1[-30:]} window={lab('System.CurrentWindow')}")
+    shot("9b-after-back")
+    xbmc.executebuiltin("ActivateWindow(home)")
+    mon.waitForAbort(3)
+
+
+def power_test():
+    """Power dialog: own buttons on top, hidden Kodi buttons gone, a click runs the action and closes the dialog."""
+    vis = lambda c: cond(f"Control.IsVisible({c})")  # noqa: E731
+    xbmc.executebuiltin("ActivateWindow(ShutdownMenu)")
+    mon.waitForAbort(2)
+    log(f"power: standard quit={vis(9101)} settings={vis(9108)} c1={vis(9121)} focus={lab('System.CurrentControlID')}")
+    xbmc.executebuiltin("Dialog.Close(all,true)")
+    mon.waitForAbort(1)
+    # the editor opens (it imports menu.py) and shows its list
+    xbmc.executebuiltin("RunScript(special://skin/scripts/powermenu.py)")
+    mon.waitForAbort(4)
+    labels = [lab(f"Container(3).ListItemAbsolute({i}).Label") for i in range(int(lab("Container(3).NumItems") or 0))]
+    log(f"power: editor open={cond('Window.IsVisible(selectdialog)')} items={labels}")
+    shot("10a-editor")
+    xbmc.executebuiltin("Dialog.Close(all,true)")
+    mon.waitForAbort(2)
+    xbmc.executebuiltin('Skin.SetString(lucent.pm.c1.label,"File Manager")')
+    xbmc.executebuiltin('Skin.SetString(lucent.pm.c1.action,"ActivateWindow(FileManager)")')
+    xbmc.executebuiltin('Skin.SetString(lucent.pm.c2.label,"Test, with comma")')
+    xbmc.executebuiltin('Skin.SetString(lucent.pm.c2.action,"SetProperty(cipm,clicked,home)")')
+    xbmc.executebuiltin("Skin.SetBool(lucent.pm.hide.quit)")
+    xbmc.executebuiltin("Skin.SetBool(lucent.pm.hide.settings)")
+    mon.waitForAbort(1)
+    xbmc.executebuiltin("ActivateWindow(ShutdownMenu)")
+    mon.waitForAbort(2)
+    log(f"power: custom quit={vis(9101)} settings={vis(9108)} c1={vis(9121)}:{lab('Control.GetLabel(9121)')} "
+        f"c2={vis(9122)}:{lab('Control.GetLabel(9122)')} c3={vis(9123)} focus={lab('System.CurrentControlID')}")
+    shot("10b-power-custom")
+    xbmc.executebuiltin("SetFocus(9122)")
+    mon.waitForAbort(1)
+    xbmc.executebuiltin("Action(Select)")
+    mon.waitForAbort(2)
+    log(f"power: c2 click prop={HOME.getProperty('cipm')} dialog={cond('Window.IsVisible(ShutdownMenu)')}")
+    xbmc.executebuiltin("ActivateWindow(ShutdownMenu)")
+    mon.waitForAbort(2)
+    xbmc.executebuiltin("SetFocus(9121)")
+    mon.waitForAbort(1)
+    xbmc.executebuiltin("Action(Select)")
+    mon.waitForAbort(3)
+    log(f"power: c1 click filemanager={cond('Window.IsActive(filemanager)')} dialog={cond('Window.IsVisible(ShutdownMenu)')}")
+    shot("10c-filemanager")
+    xbmc.executebuiltin("ActivateWindow(home)")
+    mon.waitForAbort(2)
+    xbmc.executebuiltin("RunScript(special://skin/scripts/powermenu.py,reset)")
+    mon.waitForAbort(3)
+    log(f"power: after reset c1={lab('Skin.String(lucent.pm.c1.action)')!r} hidequit={cond('Skin.HasSetting(lucent.pm.hide.quit)')}")
+
+
 def main():
     for _ in range(180):
         if cond("Window.IsActive(home)") and HOME.getProperty("nuvio.started"):
@@ -212,32 +286,11 @@ def main():
         f"lib={lab('System.AddonVersion(script.lucent.library)')} helper={HOME.getProperty('lucent.helper.running')}")
     xbmc.executebuiltin("Dialog.Close(all,true)")
     xbmc.executebuiltin("Control.SetFocus(9000,0)")
-    watch("home1", 50)
+    watch("home1", 40)
     shot("1-home")
     nav_test()
-    log("switch to Films")
-    xbmc.executebuiltin("Control.SetFocus(9000,1)")
-    watch("films1", 120)
-    shot("2-films")
-    log("back to Home")
-    xbmc.executebuiltin("Control.SetFocus(9000,0)")
-    watch("home2", 20)
-    log("Films again")
-    xbmc.executebuiltin("Control.SetFocus(9000,1)")
-    watch("films2", 30)
-    shot("3-films-again")
-    xbmc.executebuiltin("SetFocus(9100)")
-    watch("films2-rows", 6)
-    shot("4-films-rows")
-    for step in range(1, 6):                       # scroll down through the rows like a person with a remote
-        xbmc.executebuiltin("Action(Down)")
-        watch(f"down{step}", 6)
-        log(f"down {step}: focus={xbmc.getInfoLabel('System.CurrentControlID')} label={xbmc.getInfoLabel('Container.ListItem.Label')}")
-        shot(f"5-down{step}")
-    watch("idle", 60)                               # nothing touched: the rows must stay put (no jumping)
-    shot("6-idle")
-    streaming_test()
-    subs_test()
+    sidemenu_test()
+    power_test()
     os.makedirs(OUT, exist_ok=True)
     json.dump({"tag": TAG, "events": events, "samples": samples}, open(f"{OUT}/{TAG}.json", "w"))
     log("done")

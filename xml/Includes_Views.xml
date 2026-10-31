@@ -207,6 +207,12 @@
                     <onright>SetFocus(53)</onright>
                     <onright>SetFocus(55)</onright>
                     <onleft>noop</onleft>
+                    <!-- Back closes the menu and returns to the list (instead of going up a folder) -->
+                    <onback>SetFocus(50)</onback>
+                    <onback>SetFocus(51)</onback>
+                    <onback>SetFocus(52)</onback>
+                    <onback>SetFocus(53)</onback>
+                    <onback>SetFocus(55)</onback>
                 <control type="label" id="9051">
                     <width>560</width>
                     <height>70</height>

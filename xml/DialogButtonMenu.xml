@@ -31,6 +31,85 @@
                 <width>560</width>
                 <height>490</height>
                 <itemgap>4</itemgap>
+                <!-- your own buttons first (Settings > Skin settings > Power menu), then Kodi's own (each can be hidden) -->
+                <control type="button" id="9121">
+                    <width>560</width>
+                    <height>72</height>
+                    <font>font_label</font>
+                    <textcolor>text2</textcolor>
+                    <textoffsetx>28</textoffsetx>
+                    <texturefocus border="20" colordiffuse="focus">rr20.png</texturefocus>
+                    <texturenofocus/>
+                    <label>$INFO[Skin.String(lucent.pm.c1.label)]</label>
+                    <onclick>Dialog.Close(all,true)</onclick>
+                    <onclick>$INFO[Skin.String(lucent.pm.c1.action)]</onclick>
+                    <visible>!String.IsEmpty(Skin.String(lucent.pm.c1.action))</visible>
+                </control>
+                <control type="button" id="9122">
+                    <width>560</width>
+                    <height>72</height>
+                    <font>font_label</font>
+                    <textcolor>text2</textcolor>
+                    <textoffsetx>28</textoffsetx>
+                    <texturefocus border="20" colordiffuse="focus">rr20.png</texturefocus>
+                    <texturenofocus/>
+                    <label>$INFO[Skin.String(lucent.pm.c2.label)]</label>
+                    <onclick>Dialog.Close(all,true)</onclick>
+                    <onclick>$INFO[Skin.String(lucent.pm.c2.action)]</onclick>
+                    <visible>!String.IsEmpty(Skin.String(lucent.pm.c2.action))</visible>
+                </control>
+                <control type="button" id="9123">
+                    <width>560</width>
+                    <height>72</height>
+                    <font>font_label</font>
+                    <textcolor>text2</textcolor>
+                    <textoffsetx>28</textoffsetx>
+                    <texturefocus border="20" colordiffuse="focus">rr20.png</texturefocus>
+                    <texturenofocus/>
+                    <label>$INFO[Skin.String(lucent.pm.c3.label)]</label>
+                    <onclick>Dialog.Close(all,true)</onclick>
+                    <onclick>$INFO[Skin.String(lucent.pm.c3.action)]</onclick>
+                    <visible>!String.IsEmpty(Skin.String(lucent.pm.c3.action))</visible>
+                </control>
+                <control type="button" id="9124">
+                    <width>560</width>
+                    <height>72</height>
+                    <font>font_label</font>
+                    <textcolor>text2</textcolor>
+                    <textoffsetx>28</textoffsetx>
+                    <texturefocus border="20" colordiffuse="focus">rr20.png</texturefocus>
+                    <texturenofocus/>
+                    <label>$INFO[Skin.String(lucent.pm.c4.label)]</label>
+                    <onclick>Dialog.Close(all,true)</onclick>
+                    <onclick>$INFO[Skin.String(lucent.pm.c4.action)]</onclick>
+                    <visible>!String.IsEmpty(Skin.String(lucent.pm.c4.action))</visible>
+                </control>
+                <control type="button" id="9125">
+                    <width>560</width>
+                    <height>72</height>
+                    <font>font_label</font>
+                    <textcolor>text2</textcolor>
+                    <textoffsetx>28</textoffsetx>
+                    <texturefocus border="20" colordiffuse="focus">rr20.png</texturefocus>
+                    <texturenofocus/>
+                    <label>$INFO[Skin.String(lucent.pm.c5.label)]</label>
+                    <onclick>Dialog.Close(all,true)</onclick>
+                    <onclick>$INFO[Skin.String(lucent.pm.c5.action)]</onclick>
+                    <visible>!String.IsEmpty(Skin.String(lucent.pm.c5.action))</visible>
+                </control>
+                <control type="button" id="9126">
+                    <width>560</width>
+                    <height>72</height>
+                    <font>font_label</font>
+                    <textcolor>text2</textcolor>
+                    <textoffsetx>28</textoffsetx>
+                    <texturefocus border="20" colordiffuse="focus">rr20.png</texturefocus>
+                    <texturenofocus/>
+                    <label>$INFO[Skin.String(lucent.pm.c6.label)]</label>
+                    <onclick>Dialog.Close(all,true)</onclick>
+                    <onclick>$INFO[Skin.String(lucent.pm.c6.action)]</onclick>
+                    <visible>!String.IsEmpty(Skin.String(lucent.pm.c6.action))</visible>
+                </control>
                 <control type="button" id="9101">
                     <width>560</width>
                     <height>72</height>
@@ -42,7 +121,7 @@
                     <label>$LOCALIZE[13012]</label>
                     <onclick>Dialog.Close(all,true)</onclick>
                     <onclick>Quit()</onclick>
-                    <visible>System.ShowExitButton</visible>
+                    <visible>[System.ShowExitButton] + !Skin.HasSetting(lucent.pm.hide.quit)</visible>
                 </control>
                 <control type="button" id="9102">
                     <width>560</width>
@@ -55,7 +134,7 @@
                     <label>$LOCALIZE[13016]</label>
                     <onclick>Dialog.Close(all,true)</onclick>
                     <onclick>Powerdown()</onclick>
-                    <visible>System.CanPowerDown</visible>
+                    <visible>[System.CanPowerDown] + !Skin.HasSetting(lucent.pm.hide.off)</visible>
                 </control>
                 <control type="button" id="9103">
                     <width>560</width>
@@ -68,7 +147,7 @@
                     <label>$LOCALIZE[13011]</label>
                     <onclick>Dialog.Close(all,true)</onclick>
                     <onclick>Suspend()</onclick>
-                    <visible>System.CanSuspend</visible>
+                    <visible>[System.CanSuspend] + !Skin.HasSetting(lucent.pm.hide.sleep)</visible>
                 </control>
                 <control type="button" id="9104">
                     <width>560</width>
@@ -81,7 +160,7 @@
                     <label>$LOCALIZE[13013]</label>
                     <onclick>Dialog.Close(all,true)</onclick>
                     <onclick>Reboot()</onclick>
-                    <visible>System.CanReboot</visible>
+                    <visible>[System.CanReboot] + !Skin.HasSetting(lucent.pm.hide.reboot)</visible>
                 </control>
                 <control type="button" id="9105">
                     <width>560</width>
@@ -94,7 +173,7 @@
                     <label>$LOCALIZE[20126]</label>
                     <onclick>Dialog.Close(all,true)</onclick>
                     <onclick>System.LogOff</onclick>
-                    <visible>System.HasLoginScreen | Integer.IsGreater(System.ProfileCount,1)</visible>
+                    <visible>[System.HasLoginScreen | Integer.IsGreater(System.ProfileCount,1)] + !Skin.HasSetting(lucent.pm.hide.logoff)</visible>
                 </control>
                 <control type="button" id="9106">
                     <width>560</width>
@@ -107,7 +186,7 @@
                     <label>$LOCALIZE[13017]</label>
                     <onclick>Dialog.Close(all,true)</onclick>
                     <onclick>InhibitIdleShutdown(true)</onclick>
-                    <visible>System.HasShutdown + !System.IsInhibit</visible>
+                    <visible>[System.HasShutdown + !System.IsInhibit] + !Skin.HasSetting(lucent.pm.hide.inhibit)</visible>
                 </control>
                 <control type="button" id="9107">
                     <width>560</width>
@@ -120,7 +199,7 @@
                     <label>$LOCALIZE[13018]</label>
                     <onclick>Dialog.Close(all,true)</onclick>
                     <onclick>InhibitIdleShutdown(false)</onclick>
-                    <visible>System.HasShutdown + System.IsInhibit</visible>
+                    <visible>[System.HasShutdown + System.IsInhibit] + !Skin.HasSetting(lucent.pm.hide.inhibit)</visible>
                 </control>
                 <control type="button" id="9108">
                     <width>560</width>
@@ -133,7 +212,7 @@
                     <label>$LOCALIZE[5]</label>
                     <onclick>Dialog.Close(all,true)</onclick>
                     <onclick>ActivateWindow(Settings)</onclick>
-                    <visible>true</visible>
+                    <visible>[true] + !Skin.HasSetting(lucent.pm.hide.settings)</visible>
                 </control>
             </control>
         </control>

@@ -38,7 +38,10 @@ for i in range(n):
     tag.setYear(2000 + i)
     li.setArt({"poster": icon, "thumb": icon, "fanart": icon})
     li.setProperty("IsPlayable", "true")
-    items.append((f"plugin://plugin.video.fakeseren/?play={kind}{i}", li, False))
+    if kind == "folder":
+        items.append((f"plugin://plugin.video.fakeseren/?list=fast&from={i}", li, True))
+    else:
+        items.append((f"plugin://plugin.video.fakeseren/?play={kind}{i}", li, False))
 xbmcplugin.setContent(handle, "movies")
 xbmcplugin.addDirectoryItems(handle, items, len(items))
 xbmcplugin.endOfDirectory(handle, succeeded=True, cacheToDisc=False)
