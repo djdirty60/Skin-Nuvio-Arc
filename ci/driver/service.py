@@ -225,6 +225,18 @@ def sidemenu_test():
         log(f"side: {attempt} after Back focus={fid()} menu={cond('ControlGroup(9050).HasFocus')} "
             f"samefolder={path1 == path0} path={path1[-30:]} window={lab('System.CurrentWindow')}")
     shot("9b-after-back")
+    for view in (50, 56):
+        xbmc.executebuiltin(f"Container.SetViewMode({view})")
+        mon.waitForAbort(2)
+        xbmc.executebuiltin(f"SetFocus({view})")
+        mon.waitForAbort(1)
+        xbmc.executebuiltin("Action(Left)")
+        mon.waitForAbort(1.5)
+        left = fid()
+        xbmc.executebuiltin("Action(Right)")
+        mon.waitForAbort(1.5)
+        log(f"side: view {view} visible={cond(f'Control.IsVisible({view})')} Left->{left} Right->{fid()} "
+            f"samefolder={lab('Container.FolderPath') == path0}")
     xbmc.executebuiltin("ActivateWindow(home)")
     mon.waitForAbort(3)
 

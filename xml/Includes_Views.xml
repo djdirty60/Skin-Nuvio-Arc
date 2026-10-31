@@ -201,18 +201,22 @@
                     <height>960</height>
                     <orientation>vertical</orientation>
                     <itemgap>0</itemgap>
-                    <onright>SetFocus(50)</onright>
-                    <onright>SetFocus(51)</onright>
-                    <onright>SetFocus(52)</onright>
-                    <onright>SetFocus(53)</onright>
-                    <onright>SetFocus(55)</onright>
+                    <onright condition="Control.IsVisible(50)">50</onright>
+                    <onright condition="Control.IsVisible(51)">51</onright>
+                    <onright condition="Control.IsVisible(52)">52</onright>
+                    <onright condition="Control.IsVisible(53)">53</onright>
+                    <onright condition="Control.IsVisible(55)">55</onright>
+                    <onright condition="Control.IsVisible(56)">56</onright>
+                    <onright condition="Control.IsVisible(57)">57</onright>
                     <onleft>noop</onleft>
-                    <!-- Back closes the menu and returns to the list (instead of going up a folder) -->
-                    <onback>SetFocus(50)</onback>
-                    <onback>SetFocus(51)</onback>
-                    <onback>SetFocus(52)</onback>
-                    <onback>SetFocus(53)</onback>
-                    <onback>SetFocus(55)</onback>
+                    <!-- Back closes the menu and returns to the list. A control id (not SetFocus) so Kodi treats Back as handled and does not also go up a folder -->
+                    <onback condition="Control.IsVisible(50)">50</onback>
+                    <onback condition="Control.IsVisible(51)">51</onback>
+                    <onback condition="Control.IsVisible(52)">52</onback>
+                    <onback condition="Control.IsVisible(53)">53</onback>
+                    <onback condition="Control.IsVisible(55)">55</onback>
+                    <onback condition="Control.IsVisible(56)">56</onback>
+                    <onback condition="Control.IsVisible(57)">57</onback>
                 <control type="label" id="9051">
                     <width>560</width>
                     <height>70</height>
