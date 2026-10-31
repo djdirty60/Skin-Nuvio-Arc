@@ -1,300 +1,300 @@
-2026-10-31 20:20:02.845 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:03.345 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:03.345 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:03.345 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:03.345 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:03.845 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:03.845 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:03.845 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:03.845 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:04.345 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:04.346 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:04.346 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:04.346 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:04.511 T:5766    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:20:04.513 T:5766    debug <general>: Thread Timer 140432075912896 terminating
-2026-10-31 20:20:04.513 T:5767    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:20:04.515 T:5767    debug <general>: Thread Timer 140432075912896 terminating
-2026-10-31 20:20:04.515 T:5768    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:20:04.516 T:5768    debug <general>: Thread Timer 140432075912896 terminating
-2026-10-31 20:20:04.516 T:5769    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:20:04.517 T:5769    debug <general>: Thread Timer 140432075912896 terminating
-2026-10-31 20:20:04.517 T:5770    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:20:04.517 T:5770    debug <general>: Thread Timer 140432075912896 terminating
-2026-10-31 20:20:04.517 T:5771    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:20:04.519 T:5771    debug <general>: Thread Timer 140432075912896 terminating
-2026-10-31 20:20:04.519 T:5772    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:20:04.519 T:5772    debug <general>: Thread Timer 140432075912896 terminating
-2026-10-31 20:20:04.519 T:5773    debug <general>: Thread Timer start, auto delete: false
-2026-10-31 20:20:04.846 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:04.846 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:04.846 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:04.846 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:05.020 T:5773    debug <general>: Thread Timer 140432075912896 terminating
-2026-10-31 20:20:05.346 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:05.346 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:05.346 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:05.347 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:05.550 T:5273    debug <general>: Activating window ID: 10111
-2026-10-31 20:20:05.550 T:5273    debug <general>: ------ Window Init (DialogButtonMenu.xml) ------
-2026-10-31 20:20:05.849 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:05.849 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:05.849 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:05.850 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:06.350 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:06.350 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:06.350 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:06.350 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:06.850 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:06.850 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:06.850 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:06.850 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:07.351 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:07.351 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:07.351 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:07.351 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:07.689 T:5573     info <general>: [cidriver] power: custom quit=True settings=True c1=False: c2=False: c3=False focus=9101
-2026-10-31 20:20:07.738 T:5273    debug <general>: Saving screenshot /tmp/ci/out/old-3-10b-power-custom.png
-2026-10-31 20:20:07.738 T:5273    debug <general>: cached image '/tmp/ci/out/old-3-10b-power-custom.png' size 1920x1080
-2026-10-31 20:20:07.851 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:07.851 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:07.851 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:07.851 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:08.351 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:08.351 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:08.351 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:08.351 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:08.852 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:08.852 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:08.852 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:08.852 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:09.352 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:09.352 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:09.352 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:09.352 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:09.852 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:09.852 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:09.852 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:09.852 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:10.352 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:10.352 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:10.352 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:10.352 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:10.852 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:10.853 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:10.853 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:10.853 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:11.353 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:11.353 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:11.353 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:11.353 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:11.853 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:11.853 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:11.853 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:11.853 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:12.353 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:12.353 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:12.353 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:12.353 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:12.728 T:5573     info <general>: [cidriver] power: c2 click prop= dialog=True
-2026-10-31 20:20:12.771 T:5273    debug <general>: Activating window ID: 10111
-2026-10-31 20:20:12.854 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:12.854 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:12.854 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:12.854 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:13.354 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:13.354 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:13.354 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:13.354 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:13.854 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:13.854 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:13.854 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:13.854 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:14.354 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:14.354 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:14.354 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:14.354 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:14.858 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:14.858 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:14.858 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:14.859 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:15.359 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:15.359 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:15.359 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:15.359 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:15.859 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:15.859 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:15.859 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:15.859 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:16.360 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:16.360 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:16.360 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:16.360 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:16.860 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:16.860 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:16.860 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:16.860 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:17.360 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:17.360 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:17.360 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:17.360 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:17.422 T:5680    debug <general>: Thread JobWorker 140430867953344 terminating (autodelete)
-2026-10-31 20:20:17.422 T:5555    debug <general>: Thread JobWorker 140432377894592 terminating (autodelete)
-2026-10-31 20:20:17.422 T:5682    debug <general>: Thread JobWorker 140430834390720 terminating (autodelete)
-2026-10-31 20:20:17.860 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:17.860 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:17.860 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:17.860 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:18.361 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:18.361 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:18.361 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:18.361 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:18.737 T:5573     info <general>: [cidriver] power: c1 click filemanager=False dialog=True
-2026-10-31 20:20:18.794 T:5273    debug <general>: Saving screenshot /tmp/ci/out/old-3-10c-filemanager.png
-2026-10-31 20:20:18.795 T:5273    debug <general>: cached image '/tmp/ci/out/old-3-10c-filemanager.png' size 1920x1080
-2026-10-31 20:20:18.861 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:18.861 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:18.861 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:18.861 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:19.361 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:19.361 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:19.361 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:19.361 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:19.861 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:19.861 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:19.861 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:19.861 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:20.362 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:20.362 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:20.362 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:20.362 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:20.862 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:20.862 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:20.862 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:20.862 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:21.362 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:21.362 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:21.362 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:21.362 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:21.862 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:21.862 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:21.862 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:21.862 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:22.362 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:22.362 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:22.362 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:22.363 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:22.750 T:5273    error <general>: ExecuteAsync - Not executing non-existing script special://skin/scripts/powermenu.py
-2026-10-31 20:20:22.863 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:22.863 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:22.863 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:22.863 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:23.363 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:23.363 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:23.363 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:23.363 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:23.863 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:23.863 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:23.863 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:23.863 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:24.363 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:24.363 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:24.363 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:24.363 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:24.864 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:24.864 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:24.864 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:24.864 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:25.364 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:25.364 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:25.364 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:25.364 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:25.754 T:5573     info <general>: [cidriver] power: after reset c1='ActivateWindow(FileManager)' hidequit=True
-2026-10-31 20:20:25.756 T:5573     info <general>: [cidriver] done
-2026-10-31 20:20:25.757 T:5573    debug <general>: CPythonInvoker(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py): script successfully run
-2026-10-31 20:20:25.757 T:5573    debug <general>: onExecutionDone(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py)
-2026-10-31 20:20:25.761 T:5573    debug <general>: Python interpreter stopped
-2026-10-31 20:20:25.761 T:5573    debug <general>: Thread LanguageInvoker 140431404824256 terminating
-2026-10-31 20:20:25.795 T:5273     info <general>: Stopping the application...
-2026-10-31 20:20:25.795 T:5273     info <general>: Stopping player
-2026-10-31 20:20:25.795 T:5565    debug <general>: Thread AlarmClock 140432059131584 terminating
-2026-10-31 20:20:25.795 T:5273     info <general>: Storing total System Uptime
-2026-10-31 20:20:25.795 T:5273     info <general>: Saving settings
-2026-10-31 20:20:25.797 T:5273     info <general>: Saving skin settings
-2026-10-31 20:20:25.797 T:5273     info <general>: Stopping all
-2026-10-31 20:20:25.797 T:5273    debug <general>: NetworkMessage - Signaling network services to stop
-2026-10-31 20:20:25.797 T:5273     info <general>: ES: Stopping event server
-2026-10-31 20:20:25.864 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:25.864 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:25.864 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:25.865 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:25.967 T:5575     info <general>: ES: UDP Event server stopped
-2026-10-31 20:20:25.967 T:5575    debug <general>: Thread EventServer 140431371261632 terminating
-2026-10-31 20:20:25.969 T:5576    debug <general>: Thread TCPServer 140431136388800 terminating
-2026-10-31 20:20:26.365 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:26.365 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:26.365 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:26.365 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:26.865 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:26.865 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:26.865 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:26.865 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:27.261 T:5577    debug <general>: Thread WSDiscoveryListenerUDP 140431119607488 terminating
-2026-10-31 20:20:27.261 T:5273     info <general>: CWSDiscoveryListenerUDP::Stop - Stopped
-2026-10-31 20:20:27.261 T:5273    debug <general>: NetworkMessage - Waiting for network services to stop
-2026-10-31 20:20:27.261 T:5273     info <general>: stopping zeroconf publishing
-2026-10-31 20:20:27.261 T:5273    debug <general>: CServiceAddonManager: stopping script.lucent.library.
-2026-10-31 20:20:27.261 T:5273    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): trigger Monitor abort request
-2026-10-31 20:20:27.261 T:5572    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script successfully run
-2026-10-31 20:20:27.261 T:5572    debug <general>: onExecutionDone(0, /home/runner/.kodi/addons/script.lucent.library/service.py)
-2026-10-31 20:20:27.270 T:5572    debug <general>: Python interpreter interrupted by user
-2026-10-31 20:20:27.270 T:5273    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script termination took 9ms
-2026-10-31 20:20:27.270 T:5273    debug <general>: CServiceAddonManager: stopping service.lucent.cidriver.
-2026-10-31 20:20:27.270 T:5273     info <general>: CServiceAddonManager: failed to stop service.lucent.cidriver (may have ended)
-2026-10-31 20:20:27.270 T:5572    debug <general>: Thread LanguageInvoker 140431639697088 terminating
-2026-10-31 20:20:27.365 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:27.365 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:27.365 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:27.365 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:27.865 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:27.866 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:27.866 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:27.866 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:28.366 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:28.366 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:28.366 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:28.366 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:28.866 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:28.866 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:28.866 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:28.866 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:29.366 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:29.366 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:29.366 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:29.366 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:29.867 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:29.867 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:29.867 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:29.867 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:30.367 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:30.367 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:30.367 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:30.367 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:30.867 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:30.867 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:30.867 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:30.867 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:31.367 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:31.367 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:31.367 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:31.367 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:31.868 T:5314     info <general>: CActiveAESink::OpenSink - initialize sink
-2026-10-31 20:20:31.868 T:5314    debug <general>: CActiveAESink::OpenSink - trying to open device Default
-2026-10-31 20:20:31.868 T:5314    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 20:20:31.868 T:5313    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 20:20:32.279 T:5273    error <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script didn't stop in 5 seconds - let's kill it
-2026-10-31 20:20:32.279 T:5313    debug <general>: Thread ActiveAE 140432510023360 terminating
-2026-10-31 20:20:32.279 T:5314    debug <general>: Thread AESink 140432411457216 terminating
-2026-10-31 20:20:32.279 T:5273     info <general>: Application stopped
-2026-10-31 20:20:32.389 T:5686    debug <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script aborted
-2026-10-31 20:20:32.389 T:5686    debug <general>: onExecutionDone(5, special://skin/scripts/startup.py)
+2026-10-31 20:44:04.613 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:04.613 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:05.113 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:05.113 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:05.113 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:05.113 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:05.472 T:5803     info <general>: [cidriver] done
+2026-10-31 20:44:05.472 T:5803    debug <general>: CPythonInvoker(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py): script successfully run
+2026-10-31 20:44:05.472 T:5803    debug <general>: onExecutionDone(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py)
+2026-10-31 20:44:05.477 T:5803    debug <general>: Python interpreter stopped
+2026-10-31 20:44:05.477 T:5803    debug <general>: Thread LanguageInvoker 140466234324672 terminating
+2026-10-31 20:44:05.491 T:5587     info <general>: Stopping the application...
+2026-10-31 20:44:05.491 T:5587     info <general>: Stopping player
+2026-10-31 20:44:05.491 T:5793    debug <general>: Thread AlarmClock 140466888632000 terminating
+2026-10-31 20:44:05.491 T:5587     info <general>: Storing total System Uptime
+2026-10-31 20:44:05.491 T:5587     info <general>: Saving settings
+2026-10-31 20:44:05.493 T:5587     info <general>: Saving skin settings
+2026-10-31 20:44:05.494 T:5587     info <general>: Stopping all
+2026-10-31 20:44:05.494 T:5977    debug <general>: Thread JobWorker 140465663891136 terminating (autodelete)
+2026-10-31 20:44:05.494 T:5783    debug <general>: Thread JobWorker 140467140286144 terminating (autodelete)
+2026-10-31 20:44:05.494 T:6125    debug <general>: Thread JobWorker 140465429018304 terminating (autodelete)
+2026-10-31 20:44:05.494 T:5976    debug <general>: Thread JobWorker 140465697453760 terminating (autodelete)
+2026-10-31 20:44:05.494 T:5587    debug <general>: NetworkMessage - Signaling network services to stop
+2026-10-31 20:44:05.494 T:5587     info <general>: ES: Stopping event server
+2026-10-31 20:44:05.614 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:05.614 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:05.614 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:05.614 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:06.114 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:06.114 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:06.114 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:06.114 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:06.191 T:5806    debug <general>: Thread TCPServer 140465965889216 terminating
+2026-10-31 20:44:06.197 T:5805     info <general>: ES: UDP Event server stopped
+2026-10-31 20:44:06.197 T:5805    debug <general>: Thread EventServer 140466200762048 terminating
+2026-10-31 20:44:06.614 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:06.614 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:06.614 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:06.614 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:07.115 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:07.115 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:07.115 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:07.115 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:07.414 T:5807    debug <general>: Thread WSDiscoveryListenerUDP 140465949107904 terminating
+2026-10-31 20:44:07.414 T:5587     info <general>: CWSDiscoveryListenerUDP::Stop - Stopped
+2026-10-31 20:44:07.414 T:5587    debug <general>: NetworkMessage - Waiting for network services to stop
+2026-10-31 20:44:07.414 T:5587     info <general>: stopping zeroconf publishing
+2026-10-31 20:44:07.414 T:5587    debug <general>: CServiceAddonManager: stopping script.lucent.library.
+2026-10-31 20:44:07.414 T:5587    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): trigger Monitor abort request
+2026-10-31 20:44:07.415 T:5802    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script successfully run
+2026-10-31 20:44:07.415 T:5802    debug <general>: onExecutionDone(0, /home/runner/.kodi/addons/script.lucent.library/service.py)
+2026-10-31 20:44:07.425 T:5802    debug <general>: Python interpreter interrupted by user
+2026-10-31 20:44:07.425 T:5587    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script termination took 11ms
+2026-10-31 20:44:07.425 T:5587    debug <general>: CServiceAddonManager: stopping service.lucent.cidriver.
+2026-10-31 20:44:07.425 T:5587     info <general>: CServiceAddonManager: failed to stop service.lucent.cidriver (may have ended)
+2026-10-31 20:44:07.425 T:5802    debug <general>: Thread LanguageInvoker 140466469197504 terminating
+2026-10-31 20:44:07.615 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:07.615 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:07.615 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:07.615 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:08.115 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:08.115 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:08.115 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:08.115 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:08.615 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:08.616 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:08.616 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:08.616 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:09.116 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:09.116 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:09.116 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:09.116 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:09.616 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:09.616 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:09.616 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:09.616 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:10.116 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:10.116 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:10.116 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:10.116 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:10.617 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:10.617 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:10.617 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:10.617 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:11.117 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:11.117 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:11.117 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:11.117 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:11.617 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:11.617 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:11.617 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:11.617 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:12.118 T:5628     info <general>: CActiveAESink::OpenSink - initialize sink
+2026-10-31 20:44:12.118 T:5628    debug <general>: CActiveAESink::OpenSink - trying to open device Default
+2026-10-31 20:44:12.118 T:5628    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:44:12.118 T:5627    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:44:12.438 T:5587    error <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script didn't stop in 5 seconds - let's kill it
+2026-10-31 20:44:12.438 T:6046    debug <general>: CPythonInvoker(20, special://skin/scripts/sport.py): script successfully run
+2026-10-31 20:44:12.438 T:6046    debug <general>: onExecutionDone(20, special://skin/scripts/sport.py)
+2026-10-31 20:44:12.438 T:6046    debug <general>: .
+2026-10-31 20:44:12.449 T:6046    debug <general>: Python interpreter interrupted by user
+2026-10-31 20:44:12.449 T:5587    debug <general>: CPythonInvoker(20, special://skin/scripts/sport.py): script termination took 11ms
+2026-10-31 20:44:12.449 T:6046    debug <general>: Thread LanguageInvoker 140465412236992 terminating
+2026-10-31 20:44:12.449 T:5627    debug <general>: Thread ActiveAE 140467473741504 terminating
+2026-10-31 20:44:12.449 T:5628    debug <general>: Thread AESink 140467173848768 terminating
+2026-10-31 20:44:12.449 T:5587     info <general>: Application stopped
+2026-10-31 20:44:12.649 T:5801    debug <general>: Thread PeripEventScan 140466485978816 terminating
+2026-10-31 20:44:12.655 T:5798    debug <general>: Thread PeripBusUSBUdev 140466620196544 terminating
+2026-10-31 20:44:12.655 T:5799    debug <general>: Thread PeripBusCEC 140466603415232 terminating
+2026-10-31 20:44:12.655 T:5800    debug <general>: Thread PeripBusAddon 140466502760128 terminating
+2026-10-31 20:44:12.669 T:5982    debug <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script aborted
+2026-10-31 20:44:12.669 T:5982     info <general>: CPythonInvoker(5, special://skin/scripts/startup.py): waiting on thread 140465563236032
+2026-10-31 20:44:12.720 T:5587     info <general>: unload skin
+2026-10-31 20:44:12.722 T:5587    debug <general>: ------ Window Deinit (Home.xml) ------
+2026-10-31 20:44:12.724 T:5587  warning <general>: Cleanup: Having to cleanup texture white.png
+2026-10-31 20:44:12.724 T:5587  warning <general>: Cleanup: Having to cleanup texture pill64.png
+2026-10-31 20:44:12.724 T:5587  warning <general>: Cleanup: Having to cleanup texture rr14.png
+2026-10-31 20:44:12.724 T:5587  warning <general>: Cleanup: Having to cleanup texture rr20.png
+2026-10-31 20:44:12.724 T:5587  warning <general>: Cleanup: Having to cleanup texture rr20_edge.png
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(395)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(400)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(410)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(530)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(560)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(badge))' still used by 16 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(cardcol))' still used by 22 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(chan)) + string.isempty(listitem.property(chanicon))' still used by 66 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(chanicon))' still used by 66 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(edge))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(f1))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(f2))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(f3))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(f4))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(f5))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(followed))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(header))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(isevent))' still used by 48 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(live))' still used by 38 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(mine))' still used by 8 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(listitem.property(ring))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(150)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(200)' still used by 6 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(211)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(212)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(213)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(214)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(215)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(216)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(217)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(218)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(219)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(220)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(395)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(400)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(410)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(520)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(530)' still used by 6 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(540)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(560)' still used by 6 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'false' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.contains(listitem.property(league),1)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.contains(listitem.property(league),ormul)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.contains(listitem.property(league),ormul) + string.contains(listitem.property(league),1)' still used by 22 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(badge))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(cardcol))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(chan))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(chanicon))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(edge))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(f1))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(f2))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(f3))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(f4))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(f5))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(followed))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(header))' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(isevent))' still used by 61 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(isevent)) | !string.isempty(listitem.property(isevent))' still used by 14 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(live))' still used by 37 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(mine))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(listitem.property(ring))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!(!string.isempty(window.property(sport.preview)) + player.hasvideo)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(111)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(112)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(113)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(114)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(115)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(116)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!control.hasfocus(117)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(150).listitem.property(ch1name))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(ch1name))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(ch2name))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(ch3name))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(ch4name))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(followaway))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(followhome))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(isevent))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(rectext))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(remindtext))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(200).listitem.property(table))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(container(410).listitem.property(ring))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.day1.sel)) + !control.hasfocus(111)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.day2.sel)) + !control.hasfocus(112)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.day3.sel)) + !control.hasfocus(113)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.day4.sel)) + !control.hasfocus(114)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.day5.sel)) + !control.hasfocus(115)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.day6.sel)) + !control.hasfocus(116)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.day7.sel)) + !control.hasfocus(117)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.empty)) + string.isempty(window.property(sport.loading))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.f.noteams))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.hashero))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.loading)) + [string.isequal(window.property(sport.view),mine) | string.isequal(window.property(sport.view),all)]' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.notable))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.preview))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.preview)) + player.hasvideo' still used by 10 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec1.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec10.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec2.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec3.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec4.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec5.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec6.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec7.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec8.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.sec9.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.status))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isempty(window.property(sport.status)) + !string.isempty(window.property(sport.progress))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isequal(window.property(sport.view),all)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isequal(window.property(sport.view),mine) + !string.isequal(window.property(sport.view),follow)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '!string.isequal(window.property(sport.view),tables) + !string.isequal(window.property(sport.view),mine) + !string.isequal(window.property(sport.view),follow) + string.isempty(window.property(sport.empty)) + string.isempty(window.property(sport.loading))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool '[string.isequal(window.property(sport.view),mine) | string.isequal(window.property(sport.view),all)] + !string.isempty(window.property(sport.bga))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(111)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(112)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(113)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(114)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(115)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(116)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.hasfocus(117)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.isvisible(200)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.isvisible(400)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.isvisible(410)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.isvisible(530)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'control.isvisible(560)' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'listitem.isplaying' still used by 50 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'player.hasvideo' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(150).listitem.property(ch1name))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(ch1name))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(ch2name))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(ch3name))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(ch4name))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(followaway))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(followhome))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(isevent))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(rectext))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(remindtext))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(200).listitem.property(table))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(container(410).listitem.property(ring))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.bga))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.day1.sel))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.day2.sel))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.day3.sel))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.day4.sel))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.day5.sel))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.day6.sel))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.day7.sel))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.empty))' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.f.noteams))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.hashero))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.loading))' still used by 6 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.notable))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.preview))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.progress))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec1.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec10.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec2.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec3.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec4.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec5.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec6.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec7.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec8.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.sec9.on))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isempty(window.property(sport.status))' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),1)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),10)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),2)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),3)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),4)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),5)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),6)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),7)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),8)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.progress),9)' still used by 4 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.view),all)' still used by 10 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.view),follow)' still used by 6 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.view),mine)' still used by 8 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.view),mine) + string.isempty(window.property(sport.empty)) + string.isempty(window.property(sport.loading))' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'string.isequal(window.property(sport.view),tables)' still used by 5 instances
+2026-10-31 20:44:12.728 T:5587    debug <general>: Infobool 'true' still used by 3 instances
+2026-10-31 20:44:12.728 T:5587     info <general>: Unloaded skin
+2026-10-31 20:44:12.769 T:5982    debug <general>: onExecutionDone(5, special://skin/scripts/startup.py)
