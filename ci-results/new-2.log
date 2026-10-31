@@ -1,800 +1,800 @@
-2026-10-31 19:10:38.986 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:39.486 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:39.486 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:39.986 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:39.986 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:40.487 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:40.487 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:40.987 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:40.987 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:41.487 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:41.487 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:41.988 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:41.988 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:42.488 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:42.488 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:42.988 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:42.988 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:43.488 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:43.488 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:43.988 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:43.988 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:44.489 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:44.489 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:44.989 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:44.989 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:45.489 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:45.489 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:45.989 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:45.989 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:46.490 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:46.490 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:46.990 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:46.990 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:47.490 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:47.490 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:47.990 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:47.990 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:48.490 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:48.491 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:48.991 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:48.991 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:49.491 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:49.491 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:49.991 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:49.991 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:50.492 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:50.492 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:50.992 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:50.992 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:51.492 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:51.492 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:51.992 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:51.992 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:52.493 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:52.493 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:52.993 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:52.993 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:53.493 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:53.493 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:53.993 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:53.993 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:54.494 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:54.494 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:54.994 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:54.994 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:55.494 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:55.494 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:55.994 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:55.994 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:56.495 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:56.495 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:56.995 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:56.995 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:57.495 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:57.495 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:57.996 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:57.996 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:58.496 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:58.496 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:58.996 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:58.996 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:59.496 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:59.496 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:10:59.997 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:10:59.997 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:00.497 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:00.497 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:00.997 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:00.997 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:01.497 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:01.497 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:01.998 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:01.998 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:02.498 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:02.498 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:02.998 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:02.998 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:03.498 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:03.498 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:03.999 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:03.999 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:04.499 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:04.499 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:04.893 T:5370     info <general>: [cidriver] stream: tab=Streaming 8201=['3', True, False] 8102=['20', True, False]
-2026-10-31 19:11:04.930 T:5439     info <general>: [skin.lucent] tint: no small picture for http://127.0.0.1:8765/t/p/w500/n.png
-2026-10-31 19:11:05.001 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:05.002 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:05.503 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:05.503 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:06.003 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:06.003 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:06.503 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:06.503 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:06.893 T:5370     info <general>: [cidriver] stream: focus=8201 item=Netflix logo=00/nwide.png fanart=/w1280/x1b.png
-2026-10-31 19:11:07.003 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:07.003 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:07.503 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:07.503 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:08.004 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:08.004 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:08.504 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:08.504 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:08.921 T:5283    debug <general>: LoadDetails: Unsupported item type (path=plugin://script.lucent.library/?action=provideropen&id=8&name=Netflix&logo=http%3A%2F%2F127.0.0.1%3A8765%2Ft%2Fp%2Fw500%2Fnwide.png)
-2026-10-31 19:11:08.923 T:5283    error <general>: GetItemsForPlayList: Unable to get playlist items for plugin://script.lucent.library/?action=provideropen&id=8&name=Netflix&logo=http%3A%2F%2F127.0.0.1%3A8765%2Ft%2Fp%2Fw500%2Fnwide.png
-2026-10-31 19:11:08.923 T:5283    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '44', '?action=provideropen&id=8&name=Netflix&logo=http%3A%2F%2F127.0.0.1%3A8765%2Ft%2Fp%2Fw500%2Fnwide.png')
-2026-10-31 19:11:08.923 T:5934    debug <general>: CPythonInvoker(46, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:11:08.969 T:5934    debug <general>: CPythonInvoker(46, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:11:08.969 T:5934    debug <general>: CPythonInvoker(46):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:08.969 T:5934    debug <general>: CPythonInvoker(46):  plugin://script.lucent.library/
-2026-10-31 19:11:08.969 T:5934    debug <general>: CPythonInvoker(46, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:08.969 T:5934    debug <general>: CPythonInvoker(46, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:11:09.004 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:09.004 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:09.143 T:5934    debug <general>: CPythonInvoker(46, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:11:09.143 T:5934    debug <general>: onExecutionDone(46, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:11:09.224 T:5936    debug <general>: CPythonInvoker(47, special://skin/scripts/service.py): the source file to load is "special://skin/scripts/service.py" ("/home/runner/.kodi/addons/skin.lucent/scripts/service.py")
-2026-10-31 19:11:09.224 T:5936    debug <general>: CPythonInvoker(47):     /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:11:09.224 T:5936    debug <general>: CPythonInvoker(47, special://skin/scripts/service.py): entering source directory /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:11:09.298 T:5283    debug <general>: ------ Window Init (/home/runner/.kodi/addons/skin.lucent/xml/Lucent_Service.xml) ------
-2026-10-31 19:11:09.298 T:5283     info <general>: Loading skin file: /home/runner/.kodi/addons/skin.lucent/xml/Lucent_Service.xml, load type: LOAD_ON_GUI_INIT
-2026-10-31 19:11:09.300 T:5283    error <general>: Control 801 in window 13000 has been asked to focus, but it can't
-2026-10-31 19:11:09.325 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=tmdbbrowse&list=prov_8_newmovie]: refreshing..
-2026-10-31 19:11:09.325 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=tmdbbrowse&list=prov_8_newtv]: refreshing..
-2026-10-31 19:11:09.326 T:5937    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '45', '?action=tmdbbrowse&list=prov_8_newmovie')
-2026-10-31 19:11:09.326 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=tmdbbrowse&list=prov_8_popmovie]: refreshing..
-2026-10-31 19:11:09.326 T:5938    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '46', '?action=tmdbbrowse&list=prov_8_newtv')
-2026-10-31 19:11:09.326 T:5939    debug <general>: CPythonInvoker(48, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:11:09.326 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=tmdbbrowse&list=prov_8_poptv]: refreshing..
-2026-10-31 19:11:09.326 T:5941    debug <general>: CPythonInvoker(49, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:11:09.326 T:5940    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '47', '?action=tmdbbrowse&list=prov_8_popmovie')
-2026-10-31 19:11:09.326 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=tmdbbrowse&list=prov_8_topmovie]: refreshing..
-2026-10-31 19:11:09.326 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=tmdbbrowse&list=prov_8_toptv]: refreshing..
-2026-10-31 19:11:09.326 T:5942    debug <general>: CPythonInvoker(50, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:11:09.481 T:5941    debug <general>: CPythonInvoker(49, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:11:09.481 T:5941    debug <general>: CPythonInvoker(49):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:09.481 T:5941    debug <general>: CPythonInvoker(49):  plugin://script.lucent.library/
-2026-10-31 19:11:09.481 T:5941    debug <general>: CPythonInvoker(49, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:09.481 T:5941    debug <general>: CPythonInvoker(49, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:11:09.506 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:09.506 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:09.524 T:5939    debug <general>: CPythonInvoker(48, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:11:09.524 T:5939    debug <general>: CPythonInvoker(48):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:09.524 T:5939    debug <general>: CPythonInvoker(48):  plugin://script.lucent.library/
-2026-10-31 19:11:09.524 T:5939    debug <general>: CPythonInvoker(48, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:09.524 T:5939    debug <general>: CPythonInvoker(48, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:11:09.774 T:5942    debug <general>: CPythonInvoker(50, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:11:09.774 T:5942    debug <general>: CPythonInvoker(50):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:09.774 T:5942    debug <general>: CPythonInvoker(50):  plugin://script.lucent.library/
-2026-10-31 19:11:09.774 T:5942    debug <general>: CPythonInvoker(50, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:09.791 T:5942    debug <general>: CPythonInvoker(50, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:11:10.006 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:10.006 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:10.123 T:5941    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
-2026-10-31 19:11:10.125 T:5939    debug <general>: CPythonInvoker(48, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:11:10.125 T:5939    debug <general>: onExecutionDone(48, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:11:10.128 T:5937    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '48', '?action=tmdbbrowse&list=prov_8_poptv')
-2026-10-31 19:11:10.129 T:5943    debug <general>: CPythonInvoker(51, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:11:10.183 T:5941    debug <general>: CPythonInvoker(49, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:11:10.183 T:5941    debug <general>: onExecutionDone(49, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:11:10.187 T:5938    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '49', '?action=tmdbbrowse&list=prov_8_topmovie')
-2026-10-31 19:11:10.188 T:5945    debug <general>: CPythonInvoker(52, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:11:10.384 T:5942    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
-2026-10-31 19:11:10.406 T:5943    debug <general>: CPythonInvoker(51, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:11:10.406 T:5943    debug <general>: CPythonInvoker(51):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:10.406 T:5943    debug <general>: CPythonInvoker(51):  plugin://script.lucent.library/
-2026-10-31 19:11:10.406 T:5943    debug <general>: CPythonInvoker(51, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:10.406 T:5943    debug <general>: CPythonInvoker(51, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:11:10.481 T:5945    debug <general>: CPythonInvoker(52, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:11:10.481 T:5945    debug <general>: CPythonInvoker(52):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:10.481 T:5945    debug <general>: CPythonInvoker(52):  plugin://script.lucent.library/
-2026-10-31 19:11:10.481 T:5945    debug <general>: CPythonInvoker(52, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:10.481 T:5945    debug <general>: CPythonInvoker(52, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:11:10.506 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:10.506 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:10.511 T:5942    debug <general>: CPythonInvoker(50, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:11:10.511 T:5942    debug <general>: onExecutionDone(50, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:11:10.514 T:5940    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '50', '?action=tmdbbrowse&list=prov_8_toptv')
-2026-10-31 19:11:10.514 T:5946    debug <general>: CPythonInvoker(53, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:11:10.789 T:5946    debug <general>: CPythonInvoker(53, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:11:10.789 T:5946    debug <general>: CPythonInvoker(53):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:10.789 T:5946    debug <general>: CPythonInvoker(53):  plugin://script.lucent.library/
-2026-10-31 19:11:10.789 T:5946    debug <general>: CPythonInvoker(53, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:10.789 T:5946    debug <general>: CPythonInvoker(53, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:11:11.006 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:11.006 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:11.137 T:5943    debug <general>: CPythonInvoker(51, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:11:11.137 T:5943    debug <general>: onExecutionDone(51, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:11:11.315 T:5946    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
-2026-10-31 19:11:11.393 T:5945     info <general>: [script.lucent.library] tmdb: write registry.json: [Errno 2] No such file or directory: '/home/runner/.kodi/userdata/addon_data/script.lucent.library/tmdb/registry.json.5283.tmp' -> '/home/runner/.kodi/userdata/addon_data/script.lucent.library/tmdb/registry.json'
-2026-10-31 19:11:11.395 T:5946    debug <general>: CPythonInvoker(53, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:11:11.395 T:5946    debug <general>: onExecutionDone(53, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:11:11.407 T:5945    debug <general>: CPythonInvoker(52, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:11:11.407 T:5945    debug <general>: onExecutionDone(52, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:11:11.508 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:11.508 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:12.009 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:12.009 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:12.509 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:12.509 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:13.009 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:13.009 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:13.509 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:13.509 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:14.010 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:14.010 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:14.510 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:14.510 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:15.010 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:15.010 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:15.510 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:15.510 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:16.011 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:16.011 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:16.511 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:16.511 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:16.918 T:5370     info <general>: [cidriver] stream: popup=True rows=['20', '20', '20', '20', '20', '20'] focus= title=Film 1 logo=
-2026-10-31 19:11:17.011 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:17.011 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:17.511 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:17.511 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:18.011 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:18.011 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:18.512 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:18.512 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:19.015 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:19.016 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:19.094 T:5439     info <general>: [skin.lucent] tint: no small picture for http://127.0.0.1:8765/t/p/w500/x1.png
-2026-10-31 19:11:19.517 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:19.517 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:20.019 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:20.020 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:20.521 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:20.521 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:21.023 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:21.023 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:21.036 T:5439     info <general>: [skin.lucent] tint: no small picture for http://127.0.0.1:8765/t/p/w500/x2.png
-2026-10-31 19:11:21.523 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:21.523 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:22.023 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:22.023 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:22.523 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:22.523 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:22.918 T:5370     info <general>: [cidriver] stream: after down down right focus=802 item=Film 1 pos=1
-2026-10-31 19:11:23.024 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:23.024 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:23.524 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:23.524 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:24.024 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:24.024 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:24.524 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:24.524 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:24.941 T:5283    debug <general>: LoadDetails: Unsupported item type (path=plugin://script.lucent.library/?action=tmdbopen&type=tv&tmdb=1002&year=2026)
-2026-10-31 19:11:24.942 T:5283    error <general>: GetItemsForPlayList: Unable to get playlist items for plugin://script.lucent.library/?action=tmdbopen&type=tv&tmdb=1002&year=2026
-2026-10-31 19:11:24.942 T:5283    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '51', '?action=tmdbopen&type=tv&tmdb=1002&year=2026')
-2026-10-31 19:11:24.943 T:5949    debug <general>: CPythonInvoker(54, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:11:24.993 T:5949    debug <general>: CPythonInvoker(54, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:11:24.993 T:5949    debug <general>: CPythonInvoker(54):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:24.993 T:5949    debug <general>: CPythonInvoker(54):  plugin://script.lucent.library/
-2026-10-31 19:11:24.993 T:5949    debug <general>: CPythonInvoker(54, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:11:24.993 T:5949    debug <general>: CPythonInvoker(54, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:11:25.025 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:25.025 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:25.174 T:5949    debug <general>: CPythonInvoker(54, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:11:25.174 T:5949    debug <general>: onExecutionDone(54, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:11:25.281 T:5951    debug <general>: CPythonInvoker(55, special://skin/scripts/info.py): the source file to load is "special://skin/scripts/info.py" ("/home/runner/.kodi/addons/skin.lucent/scripts/info.py")
-2026-10-31 19:11:25.281 T:5951    debug <general>: CPythonInvoker(55):     /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:11:25.281 T:5951    debug <general>: CPythonInvoker(55, special://skin/scripts/info.py): entering source directory /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:11:25.525 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:25.525 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:25.529 T:5951    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
-2026-10-31 19:11:25.546 T:5951     info <general>: [skin.lucent] info.py: open tv 1002; leaving []; stack []
-2026-10-31 19:11:25.546 T:5951    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
-2026-10-31 19:11:25.546 T:5951     info <general>: [skin.lucent] info.py: trakt lookup: Unknown addon id 'plugin.video.seren'.
-2026-10-31 19:11:25.546 T:5951     info <general>: [skin.lucent] info.py: open title: no Trakt id
-2026-10-31 19:11:25.639 T:5952    debug <general>: CPythonInvoker(56, special://skin/scripts/openpage.py): the source file to load is "special://skin/scripts/openpage.py" ("/home/runner/.kodi/addons/skin.lucent/scripts/openpage.py")
-2026-10-31 19:11:25.639 T:5952    debug <general>: CPythonInvoker(56):     /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:11:25.639 T:5952    debug <general>: CPythonInvoker(56, special://skin/scripts/openpage.py): entering source directory /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:11:25.640 T:5952     info <general>: [skin.lucent] openpage: no path to open
-2026-10-31 19:11:26.025 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:26.025 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:26.525 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:26.525 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:27.025 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:27.025 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:27.526 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:27.526 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:28.026 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:28.026 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:28.526 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:28.526 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:29.026 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:29.026 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:29.527 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:29.527 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:30.027 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:30.027 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:30.527 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:30.527 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:31.027 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:31.027 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:31.528 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:31.528 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:32.028 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:32.028 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:32.528 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:32.528 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:33.028 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:33.028 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:33.528 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:33.528 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:34.029 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:34.029 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:34.529 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:34.529 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:34.921 T:5370     info <general>: [cidriver] stream: after OK info=False popup=True window=System
-2026-10-31 19:11:35.029 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:35.029 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:35.529 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:35.529 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:36.030 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:36.030 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:36.530 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:36.530 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:37.033 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:37.034 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:37.197 T:5283    debug <general>: ------ Window Deinit (/home/runner/.kodi/addons/skin.lucent/xml/Lucent_Service.xml) ------
-2026-10-31 19:11:37.405 T:5439     info <general>: [skin.lucent] tint: no small picture for http://127.0.0.1:8765/t/p/w500/n.png
-2026-10-31 19:11:37.535 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:37.535 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:38.035 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:38.035 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:38.535 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:38.535 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:39.035 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:39.035 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:39.535 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:39.535 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:40.036 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:40.036 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:40.536 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:40.536 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:40.956 T:5370     info <general>: [cidriver] stream: after Back info=False popup=False
-2026-10-31 19:11:41.039 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:41.040 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:41.541 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:41.541 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:42.041 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:42.041 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:42.541 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:42.541 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:43.041 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:43.041 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:43.541 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:43.541 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:43.959 T:5370     info <general>: [cidriver] stream: after 2nd Back popup=False window=Home
-2026-10-31 19:11:44.042 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:44.042 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:44.542 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:44.542 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:45.042 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:45.042 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:45.542 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:45.542 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:46.043 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:46.043 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:46.543 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:46.543 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:46.959 T:5370     info <general>: [cidriver] subs: play 1
-2026-10-31 19:11:47.043 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:47.043 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:47.546 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:47.547 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:48.050 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:48.051 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:48.553 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:48.554 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:49.054 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:49.054 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:49.555 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:49.555 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:50.055 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:50.055 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:50.555 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:50.555 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:51.055 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:51.055 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:51.390 T:5965    debug <general>: CPythonInvoker(57, special://skin/scripts/subs_live.py): the source file to load is "special://skin/scripts/subs_live.py" ("/home/runner/.kodi/addons/skin.lucent/scripts/subs_live.py")
-2026-10-31 19:11:51.390 T:5965    debug <general>: CPythonInvoker(57):     /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:11:51.390 T:5965    debug <general>: CPythonInvoker(57, special://skin/scripts/subs_live.py): entering source directory /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:11:51.555 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:51.555 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:52.056 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:52.056 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:52.556 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:52.556 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:52.674 T:5283    debug <general>: ------ Window Init (/home/runner/.kodi/addons/skin.lucent/xml/Lucent_Subtitles.xml) ------
-2026-10-31 19:11:52.674 T:5283     info <general>: Loading skin file: /home/runner/.kodi/addons/skin.lucent/xml/Lucent_Subtitles.xml, load type: LOAD_ON_GUI_INIT
-2026-10-31 19:11:52.692 T:5283    debug <general>: CDirectoryProvider[plugin://service.subtitles.lucent/?action=search&languages=English&preferredlanguage=English]: refreshing..
-2026-10-31 19:11:52.693 T:5937    debug <general>: CScriptRunner: running add-on script Lucent Ondertitels('plugin://service.subtitles.lucent/', '52', '?action=search&languages=English&preferredlanguage=English')
-2026-10-31 19:11:52.693 T:5966    debug <general>: CPythonInvoker(58, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): start processing
-2026-10-31 19:11:52.755 T:5966    debug <general>: CPythonInvoker(58, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): the source file to load is "/home/runner/.kodi/addons/service.subtitles.lucent/default.py"
-2026-10-31 19:11:52.755 T:5966    debug <general>: CPythonInvoker(58):     /home/runner/.kodi/addons/service.subtitles.lucent
-2026-10-31 19:11:52.755 T:5966    debug <general>: CPythonInvoker(58):  plugin://service.subtitles.lucent/
-2026-10-31 19:11:52.755 T:5966    debug <general>: CPythonInvoker(58, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): entering source directory /home/runner/.kodi/addons/service.subtitles.lucent
-2026-10-31 19:11:52.755 T:5966    debug <general>: CPythonInvoker(58, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): instantiating addon using automatically obtained id of "service.subtitles.lucent" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:11:53.025 T:5966    debug <CAddonSettings[0@service.subtitles.lucent]>: trying to load setting definitions from old format...
-2026-10-31 19:11:53.029 T:5968     info <general>: [service.subtitles.lucent] os: 0 in 0.0s
-2026-10-31 19:11:53.030 T:5969     info <general>: [service.subtitles.lucent] subdl: 0 in 0.0s
-2026-10-31 19:11:53.057 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:53.057 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:53.558 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:53.558 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:54.058 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:54.058 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:54.558 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:54.558 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:55.058 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:55.058 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:55.558 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:55.558 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:56.059 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:56.059 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:56.559 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:56.559 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:57.059 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:57.060 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:57.560 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:57.560 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:58.061 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:58.061 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:58.561 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:58.561 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:59.061 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:59.061 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:11:59.561 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:11:59.561 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:00.061 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:00.061 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:00.562 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:00.562 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:00.968 T:5370     info <general>: [cidriver] subs: rows [['Subtitles: on', 'toggle:'], ['Ukrainian', 'stream:0'], ['Other languages in the film (1)', 'otherstreams:']]
-2026-10-31 19:12:00.989 T:5370     info <general>: [cidriver] subs: playing=True paused=False lang=ukr
-2026-10-31 19:12:01.062 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:01.062 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:01.562 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:01.562 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:02.063 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:02.063 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:02.564 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:02.564 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:02.807 T:5970     info <general>: [service.subtitles.lucent] podnapisi: <urlopen error [Errno -2] Name or service not known>
-2026-10-31 19:12:02.809 T:5966    debug <general>: CPythonInvoker(58, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): script successfully run
-2026-10-31 19:12:02.809 T:5966    debug <general>: onExecutionDone(58, /home/runner/.kodi/addons/service.subtitles.lucent/default.py)
-2026-10-31 19:12:03.032 T:5971     info <general>: [skin.lucent] subs_live: service.subtitles.lucent: 0 subtitles
-2026-10-31 19:12:03.064 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:03.064 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:03.564 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:03.564 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:04.064 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:04.064 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:04.564 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:04.564 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:05.065 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:05.065 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:05.565 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:05.565 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:06.025 T:5370     info <general>: [cidriver] subs: other dialog open=True item=Dutch  ·  Volledig
-2026-10-31 19:12:06.065 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:06.065 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:06.566 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:06.566 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:07.066 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:07.066 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:07.566 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:07.566 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:08.066 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:08.066 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:08.480 T:5283    debug <general>: ------ Window Deinit (/home/runner/.kodi/addons/skin.lucent/xml/Lucent_Subtitles.xml) ------
-2026-10-31 19:12:08.566 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:08.566 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:09.067 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:09.067 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:09.569 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:09.569 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:10.044 T:5370     info <general>: [cidriver] subs: after other lang=dut list=False
-2026-10-31 19:12:10.045 T:5370     info <general>: [cidriver] subs: OSD
-2026-10-31 19:12:10.069 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:10.069 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:10.570 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:10.571 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:11.074 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:11.075 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:11.576 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:11.577 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:12.059 T:5370     info <general>: [cidriver] subs: osd search visible=False focus=103
-2026-10-31 19:12:12.077 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:12.078 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:12.579 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:12.579 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:13.080 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:13.080 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:13.580 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:13.580 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:14.081 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:14.081 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:14.581 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:14.581 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:15.081 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:15.081 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:15.581 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:15.581 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:16.081 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:16.082 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:16.583 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:16.583 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:17.071 T:5370     info <general>: [cidriver] seek: Right: 25.7 -> 38.8 = +9.0 s (besides 4 s playing) paused=False focus=87
-2026-10-31 19:12:17.083 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:17.083 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:17.583 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:17.583 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:18.083 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:18.083 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:18.583 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:18.583 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:19.085 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:19.085 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:19.586 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:19.586 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:20.087 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:20.088 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:20.591 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:20.592 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:21.084 T:5370     info <general>: [cidriver] seek: Right: 38.8 -> 51.7 = +9.0 s (besides 4 s playing) paused=False focus=87
-2026-10-31 19:12:21.095 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:21.096 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:21.599 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:21.600 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:22.101 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:22.101 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:22.602 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:22.602 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:23.102 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:23.102 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:23.602 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:23.602 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:24.104 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:24.105 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:24.608 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:24.609 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:25.106 T:5370     info <general>: [cidriver] seek: Left: 51.7 -> 43.7 = -12.0 s (besides 4 s playing) paused=False focus=87
-2026-10-31 19:12:25.109 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:25.110 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:25.610 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:25.610 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:26.111 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:26.111 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:26.611 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:26.611 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:27.111 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:27.111 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:27.611 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:27.611 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:28.112 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:28.112 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:28.612 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:28.612 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:29.112 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:29.112 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:29.116 T:5370     info <general>: [cidriver] seek: Left: 43.7 -> 35.7 = -12.0 s (besides 4 s playing) paused=False focus=87
-2026-10-31 19:12:29.612 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:29.612 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:30.116 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:30.117 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:30.618 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:30.619 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:31.120 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:31.120 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:31.620 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:31.620 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:32.121 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:32.121 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:32.621 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:32.621 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:33.121 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:33.121 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:33.132 T:5370     info <general>: [cidriver] seek: Left: 35.7 -> 27.7 = -12.0 s (besides 4 s playing) paused=False focus=87
-2026-10-31 19:12:33.621 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:33.621 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:34.122 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:34.122 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:34.622 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:34.622 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:35.122 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:35.122 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:35.623 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:35.623 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:36.123 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:36.123 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:36.133 T:5370     info <general>: [cidriver] seek: focus after Down=103
-2026-10-31 19:12:36.623 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:36.623 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:37.124 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:37.124 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:37.236 T:5978    debug <general>: CPythonInvoker(59, special://skin/scripts/subs_live.py): the source file to load is "special://skin/scripts/subs_live.py" ("/home/runner/.kodi/addons/skin.lucent/scripts/subs_live.py")
-2026-10-31 19:12:37.236 T:5978    debug <general>: CPythonInvoker(59):     /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:12:37.236 T:5978    debug <general>: CPythonInvoker(59, special://skin/scripts/subs_live.py): entering source directory /home/runner/.kodi/addons/skin.lucent/scripts
-2026-10-31 19:12:37.529 T:5283    debug <general>: ------ Window Init (/home/runner/.kodi/addons/skin.lucent/xml/Lucent_Subtitles.xml) ------
-2026-10-31 19:12:37.529 T:5283     info <general>: Loading skin file: /home/runner/.kodi/addons/skin.lucent/xml/Lucent_Subtitles.xml, load type: LOAD_ON_GUI_INIT
-2026-10-31 19:12:37.549 T:5283    debug <general>: CDirectoryProvider[plugin://service.subtitles.lucent/?action=search&languages=English&preferredlanguage=English]: refreshing..
-2026-10-31 19:12:37.549 T:5979    debug <general>: CScriptRunner: running add-on script Lucent Ondertitels('plugin://service.subtitles.lucent/', '53', '?action=search&languages=English&preferredlanguage=English')
-2026-10-31 19:12:37.550 T:5980    debug <general>: CPythonInvoker(60, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): start processing
-2026-10-31 19:12:37.616 T:5980    debug <general>: CPythonInvoker(60, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): the source file to load is "/home/runner/.kodi/addons/service.subtitles.lucent/default.py"
-2026-10-31 19:12:37.616 T:5980    debug <general>: CPythonInvoker(60):     /home/runner/.kodi/addons/service.subtitles.lucent
-2026-10-31 19:12:37.616 T:5980    debug <general>: CPythonInvoker(60):  plugin://service.subtitles.lucent/
-2026-10-31 19:12:37.616 T:5980    debug <general>: CPythonInvoker(60, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): entering source directory /home/runner/.kodi/addons/service.subtitles.lucent
-2026-10-31 19:12:37.616 T:5980    debug <general>: CPythonInvoker(60, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): instantiating addon using automatically obtained id of "service.subtitles.lucent" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:12:37.625 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:37.625 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:37.877 T:5980    debug <CAddonSettings[0@service.subtitles.lucent]>: trying to load setting definitions from old format...
-2026-10-31 19:12:37.881 T:5982     info <general>: [service.subtitles.lucent] os: 0 in 0.0s
-2026-10-31 19:12:37.882 T:5983     info <general>: [service.subtitles.lucent] subdl: 0 in 0.0s
-2026-10-31 19:12:38.125 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:38.125 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:38.626 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:38.626 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:39.127 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:39.127 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:39.628 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:39.628 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:40.128 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:40.128 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:40.628 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:40.628 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:41.128 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:41.128 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:41.258 T:5984     info <general>: [service.subtitles.lucent] podnapisi: <urlopen error [Errno -2] Name or service not known>
-2026-10-31 19:12:41.259 T:5980    debug <general>: CPythonInvoker(60, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): script successfully run
-2026-10-31 19:12:41.259 T:5980    debug <general>: onExecutionDone(60, /home/runner/.kodi/addons/service.subtitles.lucent/default.py)
-2026-10-31 19:12:41.367 T:5370     info <general>: [cidriver] subs: list from OSD=True rows=[['Subtitles: on', 'toggle:'], ['Dutch', 'stream:1'], ['Other languages in the film (1)', 'otherstreams:']]
-2026-10-31 19:12:41.367 T:5985     info <general>: [skin.lucent] subs_live: service.subtitles.lucent: 0 subtitles
-2026-10-31 19:12:41.630 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:41.630 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:42.131 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:42.131 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:42.631 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:42.631 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:43.131 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:43.131 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:43.367 T:5370     info <general>: [cidriver] subs: Right from list -> focus=9501
-2026-10-31 19:12:43.631 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:43.631 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:44.132 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:44.132 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:44.633 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:44.633 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:45.133 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:45.133 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:45.429 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=1&r=1793473504.1381881&path=plugin://plugin.video.fakeseren/?list=fast]: refreshing..
-2026-10-31 19:12:45.429 T:5987    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '54', '?action=widget&row=1&r=1793473504.1381881&path=plugin://plugin.video.fakeseren/?list=fast')
-2026-10-31 19:12:45.429 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=2&r=1793473488.55366&path=plugin://plugin.video.fakeseren/?list=slow]: refreshing..
-2026-10-31 19:12:45.430 T:5990    debug <general>: CPythonInvoker(61, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:12:45.430 T:5979    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '55', '?action=widget&row=2&r=1793473488.55366&path=plugin://plugin.video.fakeseren/?list=slow')
-2026-10-31 19:12:45.430 T:5991    debug <general>: CPythonInvoker(62, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:12:45.430 T:5283    debug <general>: CDirectoryProvider[plugin://service.subtitles.lucent/?action=search&languages=English&preferredlanguage=English]: refreshing..
-2026-10-31 19:12:45.431 T:5992    debug <general>: CScriptRunner: running add-on script Lucent Ondertitels('plugin://service.subtitles.lucent/', '56', '?action=search&languages=English&preferredlanguage=English')
-2026-10-31 19:12:45.431 T:5993    debug <general>: CPythonInvoker(63, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): start processing
-2026-10-31 19:12:45.466 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=1&r=1793473504.1381881&path=plugin://script.lucent.library/?action=providers]: refreshing..
-2026-10-31 19:12:45.466 T:5283    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=2&r=1793473488.55366&path=plugin://script.lucent.library/?action=tmdb&list=prov_8_newmovie]: refreshing..
-2026-10-31 19:12:45.595 T:5991    debug <general>: CPythonInvoker(62, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:12:45.595 T:5991    debug <general>: CPythonInvoker(62):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:12:45.595 T:5991    debug <general>: CPythonInvoker(62):  plugin://script.lucent.library/
-2026-10-31 19:12:45.595 T:5991    debug <general>: CPythonInvoker(62):  ?action=widget&row=2&r=1793473488.55366&path=plugin://plugin.video.fakeseren/?list=slow
-2026-10-31 19:12:45.595 T:5991    debug <general>: CPythonInvoker(62, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:12:45.605 T:5991    debug <general>: CPythonInvoker(62, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:12:45.633 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:45.633 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:45.641 T:5990    debug <general>: CPythonInvoker(61, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:12:45.642 T:5990    debug <general>: CPythonInvoker(61):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:12:45.642 T:5990    debug <general>: CPythonInvoker(61):  plugin://script.lucent.library/
-2026-10-31 19:12:45.642 T:5990    debug <general>: CPythonInvoker(61):  ?action=widget&row=1&r=1793473504.1381881&path=plugin://plugin.video.fakeseren/?list=fast
-2026-10-31 19:12:45.642 T:5990    debug <general>: CPythonInvoker(61, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:12:45.642 T:5990    debug <general>: CPythonInvoker(61, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:12:45.658 T:5993    debug <general>: CPythonInvoker(63, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): the source file to load is "/home/runner/.kodi/addons/service.subtitles.lucent/default.py"
-2026-10-31 19:12:45.658 T:5993    debug <general>: CPythonInvoker(63):     /home/runner/.kodi/addons/service.subtitles.lucent
-2026-10-31 19:12:45.658 T:5993    debug <general>: CPythonInvoker(63):  plugin://service.subtitles.lucent/
-2026-10-31 19:12:45.659 T:5993    debug <general>: CPythonInvoker(63, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): entering source directory /home/runner/.kodi/addons/service.subtitles.lucent
-2026-10-31 19:12:45.659 T:5993    debug <general>: CPythonInvoker(63, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): instantiating addon using automatically obtained id of "service.subtitles.lucent" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:12:45.889 T:5991    debug <general>: CPythonInvoker(62, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:12:45.889 T:5991    debug <general>: onExecutionDone(62, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:12:45.895 T:5979    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '57', '?action=widget&row=1&r=1793473504.1381881&path=plugin://script.lucent.library/?action=providers')
-2026-10-31 19:12:45.895 T:5995    debug <general>: CPythonInvoker(64, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:12:45.900 T:5990    debug <general>: CPythonInvoker(61, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:12:45.900 T:5990    debug <general>: onExecutionDone(61, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:12:45.903 T:5987    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '58', '?action=widget&row=2&r=1793473488.55366&path=plugin://script.lucent.library/?action=tmdb&list=prov_8_newmovie')
-2026-10-31 19:12:45.906 T:5996    debug <general>: CPythonInvoker(65, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
-2026-10-31 19:12:46.133 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:46.133 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:46.173 T:5996    debug <general>: CPythonInvoker(65, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:12:46.173 T:5996    debug <general>: CPythonInvoker(65):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:12:46.173 T:5996    debug <general>: CPythonInvoker(65):  plugin://script.lucent.library/
-2026-10-31 19:12:46.173 T:5996    debug <general>: CPythonInvoker(65):  ?action=widget&row=2&r=1793473488.55366&path=plugin://script.lucent.library/?action=tmdb&list=prov_8_newmovie
-2026-10-31 19:12:46.173 T:5996    debug <general>: CPythonInvoker(65, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:12:46.173 T:5996    debug <general>: CPythonInvoker(65, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:12:46.274 T:5995    debug <general>: CPythonInvoker(64, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
-2026-10-31 19:12:46.274 T:5995    debug <general>: CPythonInvoker(64):     /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:12:46.274 T:5995    debug <general>: CPythonInvoker(64):  plugin://script.lucent.library/
-2026-10-31 19:12:46.274 T:5995    debug <general>: CPythonInvoker(64):  ?action=widget&row=1&r=1793473504.1381881&path=plugin://script.lucent.library/?action=providers
-2026-10-31 19:12:46.274 T:5995    debug <general>: CPythonInvoker(64, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
-2026-10-31 19:12:46.281 T:5995    debug <general>: CPythonInvoker(64, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
-2026-10-31 19:12:46.489 T:5993    error <general>: EXCEPTION: Kodi is not playing any videofile
-2026-10-31 19:12:46.489 T:5993    debug <CAddonSettings[0@service.subtitles.lucent]>: trying to load setting definitions from old format...
-2026-10-31 19:12:46.516 T:5997     info <general>: [service.subtitles.lucent] os: 0 in 0.0s
-2026-10-31 19:12:46.525 T:5998     info <general>: [service.subtitles.lucent] subdl: 0 in 0.0s
-2026-10-31 19:12:46.633 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:46.633 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:46.795 T:5995    debug <general>: CPythonInvoker(64, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:12:46.797 T:5995    debug <general>: onExecutionDone(64, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:12:46.810 T:5996    debug <general>: CPythonInvoker(65, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
-2026-10-31 19:12:46.810 T:5996    debug <general>: onExecutionDone(65, /home/runner/.kodi/addons/script.lucent.library/widget.py)
-2026-10-31 19:12:46.936 T:5986     info <general>: [skin.lucent] subs_live: the video stopped - closing the list
-2026-10-31 19:12:47.122 T:5283    debug <general>: ------ Window Deinit (/home/runner/.kodi/addons/skin.lucent/xml/Lucent_Subtitles.xml) ------
-2026-10-31 19:12:47.134 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:47.134 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:47.634 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:47.634 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:48.134 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:48.134 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:48.634 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:48.634 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:49.134 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:49.134 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:49.634 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:49.634 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:50.135 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:50.135 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:50.578 T:5999     info <general>: [service.subtitles.lucent] podnapisi: <urlopen error [Errno -2] Name or service not known>
-2026-10-31 19:12:50.578 T:5993    debug <general>: CPythonInvoker(63, /home/runner/.kodi/addons/service.subtitles.lucent/default.py): script successfully run
-2026-10-31 19:12:50.578 T:5993    debug <general>: onExecutionDone(63, /home/runner/.kodi/addons/service.subtitles.lucent/default.py)
-2026-10-31 19:12:50.635 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:50.635 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:50.776 T:5370     info <general>: [cidriver] subs: after stop list=False
-2026-10-31 19:12:50.806 T:5370     info <general>: [cidriver] done
-2026-10-31 19:12:50.806 T:5370    debug <general>: CPythonInvoker(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py): script successfully run
-2026-10-31 19:12:50.806 T:5370    debug <general>: onExecutionDone(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py)
-2026-10-31 19:12:51.135 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:51.135 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:51.635 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:51.635 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:52.136 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:52.136 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:52.636 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:52.636 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:52.770 T:5283    debug <general>: CServiceAddonManager: stopping script.lucent.library.
-2026-10-31 19:12:52.770 T:5283    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): trigger Monitor abort request
-2026-10-31 19:12:52.770 T:5369    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script successfully run
-2026-10-31 19:12:52.770 T:5369    debug <general>: onExecutionDone(0, /home/runner/.kodi/addons/script.lucent.library/service.py)
-2026-10-31 19:12:52.778 T:5283    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script termination took 9ms
-2026-10-31 19:12:52.778 T:5283    debug <general>: CServiceAddonManager: stopping service.lucent.cidriver.
-2026-10-31 19:12:52.778 T:5283     info <general>: CServiceAddonManager: failed to stop service.lucent.cidriver (may have ended)
-2026-10-31 19:12:53.136 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:53.136 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:53.637 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:53.637 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:54.137 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:54.137 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:54.637 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:54.637 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:55.137 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:55.137 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:55.638 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:55.638 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:56.138 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:56.138 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:56.638 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:56.638 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:57.138 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:57.138 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:57.639 T:5324    error <general>: CActiveAESink::OpenSink - no sink was returned
-2026-10-31 19:12:57.639 T:5323    error <general>: ActiveAE::InitSink - returned error
-2026-10-31 19:12:57.787 T:5283    error <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script didn't stop in 5 seconds - let's kill it
+2026-10-31 20:10:05.977 T:5986    debug <general>: CPythonInvoker(6, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:06.034 T:5986    debug <general>: CPythonInvoker(6, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:06.034 T:5986    debug <general>: CPythonInvoker(6):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:06.034 T:5986    debug <general>: CPythonInvoker(6):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:06.034 T:5986    debug <general>: CPythonInvoker(6, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:06.034 T:5986    debug <general>: CPythonInvoker(6, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:06.096 T:5986    debug <general>: CPythonInvoker(6, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:06.096 T:5986    debug <general>: onExecutionDone(6, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:06.103 T:5869     info <general>: [script.lucent.library] widgets: 25 items in 0.1s: plugin://plugin.video.fakeseren/?list=fast
+2026-10-31 20:10:06.214 T:5555    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=1&r=1793477406.1033244&path=plugin://plugin.video.fakeseren/?list=fast]: refreshing..
+2026-10-31 20:10:06.214 T:5956    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '5', '?action=widget&row=1&r=1793477406.1033244&path=plugin://plugin.video.fakeseren/?list=fast')
+2026-10-31 20:10:06.214 T:5987    debug <general>: CPythonInvoker(7, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
+2026-10-31 20:10:06.297 T:5987    debug <general>: CPythonInvoker(7, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
+2026-10-31 20:10:06.297 T:5987    debug <general>: CPythonInvoker(7):     /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:06.297 T:5987    debug <general>: CPythonInvoker(7):  plugin://script.lucent.library/
+2026-10-31 20:10:06.297 T:5987    debug <general>: CPythonInvoker(7):  ?action=widget&row=1&r=1793477406.1033244&path=plugin://plugin.video.fakeseren/?list=fast
+2026-10-31 20:10:06.297 T:5987    debug <general>: CPythonInvoker(7, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:06.297 T:5987    debug <general>: CPythonInvoker(7, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:06.364 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:06.365 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:06.405 T:5987    debug <general>: CPythonInvoker(7, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
+2026-10-31 20:10:06.405 T:5987    debug <general>: onExecutionDone(7, /home/runner/.kodi/addons/script.lucent.library/widget.py)
+2026-10-31 20:10:06.423 T:5956    debug <general>: Caching image 'special://home/addons/plugin.video.fakeseren/icon.png' to '7/7101da16.jpg':
+2026-10-31 20:10:06.867 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:06.868 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:07.368 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:07.368 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:07.604 T:5989    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '6', '?list=fast4')
+2026-10-31 20:10:07.604 T:5990    debug <general>: CPythonInvoker(8, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:07.662 T:5990    debug <general>: CPythonInvoker(8, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:07.662 T:5990    debug <general>: CPythonInvoker(8):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:07.662 T:5990    debug <general>: CPythonInvoker(8):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:07.662 T:5990    debug <general>: CPythonInvoker(8, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:07.662 T:5990    debug <general>: CPythonInvoker(8, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:07.727 T:5990    debug <general>: CPythonInvoker(8, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:07.727 T:5990    debug <general>: onExecutionDone(8, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:07.735 T:5869     info <general>: [script.lucent.library] widgets: 25 items in 0.1s: plugin://plugin.video.fakeseren/?list=fast4
+2026-10-31 20:10:07.868 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:07.868 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:07.962 T:5555    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=3&r=1793477407.7356231&path=plugin://plugin.video.fakeseren/?list=fast4]: refreshing..
+2026-10-31 20:10:07.962 T:5956    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '7', '?action=widget&row=3&r=1793477407.7356231&path=plugin://plugin.video.fakeseren/?list=fast4')
+2026-10-31 20:10:07.963 T:5991    debug <general>: CPythonInvoker(9, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
+2026-10-31 20:10:08.045 T:5991    debug <general>: CPythonInvoker(9, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
+2026-10-31 20:10:08.045 T:5991    debug <general>: CPythonInvoker(9):     /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:08.045 T:5991    debug <general>: CPythonInvoker(9):  plugin://script.lucent.library/
+2026-10-31 20:10:08.045 T:5991    debug <general>: CPythonInvoker(9):  ?action=widget&row=3&r=1793477407.7356231&path=plugin://plugin.video.fakeseren/?list=fast4
+2026-10-31 20:10:08.045 T:5991    debug <general>: CPythonInvoker(9, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:08.045 T:5991    debug <general>: CPythonInvoker(9, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:08.156 T:5991    debug <general>: CPythonInvoker(9, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
+2026-10-31 20:10:08.156 T:5991    debug <general>: onExecutionDone(9, /home/runner/.kodi/addons/script.lucent.library/widget.py)
+2026-10-31 20:10:08.369 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:08.369 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:08.871 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:08.872 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:09.237 T:5992    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '8', '?list=slow')
+2026-10-31 20:10:09.237 T:5993    debug <general>: CPythonInvoker(10, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:09.296 T:5993    debug <general>: CPythonInvoker(10, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:09.296 T:5993    debug <general>: CPythonInvoker(10):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:09.296 T:5993    debug <general>: CPythonInvoker(10):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:09.296 T:5993    debug <general>: CPythonInvoker(10, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:09.296 T:5993    debug <general>: CPythonInvoker(10, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:09.372 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:09.372 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:09.872 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:09.872 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:10.373 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:10.373 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:10.873 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:10.873 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:11.373 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:11.373 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:11.874 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:11.874 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:12.374 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:12.374 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:12.874 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:12.874 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:13.375 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:13.375 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:13.875 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:13.875 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:14.375 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:14.375 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:14.875 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:14.875 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:15.376 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:15.376 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:15.876 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:15.876 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:16.376 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:16.376 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:16.877 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:16.877 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:17.377 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:17.377 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:17.877 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:17.877 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:18.377 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:18.377 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:18.878 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:18.878 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:19.378 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:19.378 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:19.878 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:19.878 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:20.378 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:20.378 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:20.879 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:20.879 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:21.358 T:5993    debug <general>: CPythonInvoker(10, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:21.358 T:5993    debug <general>: onExecutionDone(10, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:21.367 T:5869     info <general>: [script.lucent.library] widgets: 25 items in 12.1s: plugin://plugin.video.fakeseren/?list=slow
+2026-10-31 20:10:21.379 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:21.379 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:21.581 T:5555    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=2&r=1793477421.3673737&path=plugin://plugin.video.fakeseren/?list=slow]: refreshing..
+2026-10-31 20:10:21.581 T:5957    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '9', '?action=widget&row=2&r=1793477421.3673737&path=plugin://plugin.video.fakeseren/?list=slow')
+2026-10-31 20:10:21.581 T:5996    debug <general>: CPythonInvoker(11, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
+2026-10-31 20:10:21.661 T:5996    debug <general>: CPythonInvoker(11, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
+2026-10-31 20:10:21.661 T:5996    debug <general>: CPythonInvoker(11):     /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:21.661 T:5996    debug <general>: CPythonInvoker(11):  plugin://script.lucent.library/
+2026-10-31 20:10:21.661 T:5996    debug <general>: CPythonInvoker(11):  ?action=widget&row=2&r=1793477421.3673737&path=plugin://plugin.video.fakeseren/?list=slow
+2026-10-31 20:10:21.661 T:5996    debug <general>: CPythonInvoker(11, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:21.661 T:5996    debug <general>: CPythonInvoker(11, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:21.765 T:5996    debug <general>: CPythonInvoker(11, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
+2026-10-31 20:10:21.765 T:5996    debug <general>: onExecutionDone(11, /home/runner/.kodi/addons/script.lucent.library/widget.py)
+2026-10-31 20:10:21.883 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:21.884 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:22.384 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:22.384 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:22.879 T:5869     info <general>: [script.lucent.library] widgets: prefetch: 7 rows of other tabs put on the list
+2026-10-31 20:10:22.881 T:5998    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '10', '?list=empty')
+2026-10-31 20:10:22.881 T:5999    debug <general>: CPythonInvoker(12, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:22.884 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:22.884 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:22.940 T:5999    debug <general>: CPythonInvoker(12, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:22.940 T:5999    debug <general>: CPythonInvoker(12):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:22.940 T:5999    debug <general>: CPythonInvoker(12):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:22.940 T:5999    debug <general>: CPythonInvoker(12, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:22.940 T:5999    debug <general>: CPythonInvoker(12, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:23.003 T:5999    debug <general>: CPythonInvoker(12, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:23.003 T:5999    debug <general>: onExecutionDone(12, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:23.385 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:23.385 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:23.885 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:23.885 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:24.385 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:24.385 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:24.886 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:24.886 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:25.386 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:25.386 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:25.886 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:25.886 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:26.008 T:5998    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '11', '?list=empty')
+2026-10-31 20:10:26.008 T:6002    debug <general>: CPythonInvoker(13, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:26.067 T:6002    debug <general>: CPythonInvoker(13, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:26.067 T:6002    debug <general>: CPythonInvoker(13):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:26.067 T:6002    debug <general>: CPythonInvoker(13):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:26.067 T:6002    debug <general>: CPythonInvoker(13, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:26.067 T:6002    debug <general>: CPythonInvoker(13, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:26.130 T:6002    debug <general>: CPythonInvoker(13, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:26.130 T:6002    debug <general>: onExecutionDone(13, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:26.135 T:5869     info <general>: [script.lucent.library] widgets: nothing for plugin://plugin.video.fakeseren/?list=empty; kept the saved row, again later
+2026-10-31 20:10:26.386 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:26.386 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:26.887 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:26.887 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:27.387 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:27.387 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:27.637 T:6003    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '12', '?list=fast2')
+2026-10-31 20:10:27.637 T:6004    debug <general>: CPythonInvoker(14, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:27.696 T:6004    debug <general>: CPythonInvoker(14, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:27.696 T:6004    debug <general>: CPythonInvoker(14):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:27.696 T:6004    debug <general>: CPythonInvoker(14):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:27.696 T:6004    debug <general>: CPythonInvoker(14, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:27.696 T:6004    debug <general>: CPythonInvoker(14, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:27.759 T:6004    debug <general>: CPythonInvoker(14, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:27.759 T:6004    debug <general>: onExecutionDone(14, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:27.766 T:5869     info <general>: [script.lucent.library] widgets: 25 items in 0.1s: plugin://plugin.video.fakeseren/?list=fast2
+2026-10-31 20:10:27.776 T:5555    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=1&r=1793477427.7667754&path=plugin://plugin.video.fakeseren/?list=fast]: refreshing..
+2026-10-31 20:10:27.776 T:5957    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '13', '?action=widget&row=1&r=1793477427.7667754&path=plugin://plugin.video.fakeseren/?list=fast')
+2026-10-31 20:10:27.776 T:6005    debug <general>: CPythonInvoker(15, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
+2026-10-31 20:10:27.837 T:6005    debug <general>: CPythonInvoker(15, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
+2026-10-31 20:10:27.837 T:6005    debug <general>: CPythonInvoker(15):     /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:27.837 T:6005    debug <general>: CPythonInvoker(15):  plugin://script.lucent.library/
+2026-10-31 20:10:27.837 T:6005    debug <general>: CPythonInvoker(15):  ?action=widget&row=1&r=1793477427.7667754&path=plugin://plugin.video.fakeseren/?list=fast
+2026-10-31 20:10:27.837 T:6005    debug <general>: CPythonInvoker(15, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:27.837 T:6005    debug <general>: CPythonInvoker(15, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:27.890 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:27.890 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:27.946 T:6005    debug <general>: CPythonInvoker(15, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
+2026-10-31 20:10:27.946 T:6005    debug <general>: onExecutionDone(15, /home/runner/.kodi/addons/script.lucent.library/widget.py)
+2026-10-31 20:10:28.390 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:28.390 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:28.890 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:28.890 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:29.269 T:6006    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '14', '?list=fast3')
+2026-10-31 20:10:29.269 T:6007    debug <general>: CPythonInvoker(16, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:29.328 T:6007    debug <general>: CPythonInvoker(16, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:29.328 T:6007    debug <general>: CPythonInvoker(16):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:29.328 T:6007    debug <general>: CPythonInvoker(16):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:29.328 T:6007    debug <general>: CPythonInvoker(16, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:29.328 T:6007    debug <general>: CPythonInvoker(16, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:29.390 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:29.390 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:29.391 T:6007    debug <general>: CPythonInvoker(16, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:29.391 T:6007    debug <general>: onExecutionDone(16, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:29.398 T:5869     info <general>: [script.lucent.library] widgets: 25 items in 0.1s: plugin://plugin.video.fakeseren/?list=fast3
+2026-10-31 20:10:29.891 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:29.891 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:30.391 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:30.391 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:30.891 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:30.891 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:30.901 T:6008    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '15', '?list=flaky')
+2026-10-31 20:10:30.901 T:6009    debug <general>: CPythonInvoker(17, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:30.960 T:6009    debug <general>: CPythonInvoker(17, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:30.960 T:6009    debug <general>: CPythonInvoker(17):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:30.960 T:6009    debug <general>: CPythonInvoker(17):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:30.960 T:6009    debug <general>: CPythonInvoker(17, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:30.960 T:6009    debug <general>: CPythonInvoker(17, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:31.024 T:6009    debug <general>: CPythonInvoker(17, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:31.024 T:6009    debug <general>: onExecutionDone(17, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:31.392 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:31.392 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:31.892 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:31.892 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:32.392 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:32.392 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:32.893 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:32.893 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:33.393 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:33.393 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:33.893 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:33.893 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:34.029 T:6008    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '16', '?list=flaky')
+2026-10-31 20:10:34.029 T:6010    debug <general>: CPythonInvoker(18, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:34.088 T:6010    debug <general>: CPythonInvoker(18, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:34.088 T:6010    debug <general>: CPythonInvoker(18):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:34.088 T:6010    debug <general>: CPythonInvoker(18):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:34.088 T:6010    debug <general>: CPythonInvoker(18, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:34.088 T:6010    debug <general>: CPythonInvoker(18, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:34.151 T:6010    debug <general>: CPythonInvoker(18, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:34.151 T:6010    debug <general>: onExecutionDone(18, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:34.156 T:5869     info <general>: [script.lucent.library] widgets: nothing for plugin://plugin.video.fakeseren/?list=flaky; kept the saved row, again later
+2026-10-31 20:10:34.393 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:34.393 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:34.894 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:34.894 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:35.394 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:35.394 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:35.658 T:6012    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '17', '?list=slow2')
+2026-10-31 20:10:35.658 T:6013    debug <general>: CPythonInvoker(19, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:35.718 T:6013    debug <general>: CPythonInvoker(19, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:35.718 T:6013    debug <general>: CPythonInvoker(19):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:35.718 T:6013    debug <general>: CPythonInvoker(19):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:35.718 T:6013    debug <general>: CPythonInvoker(19, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:35.718 T:6013    debug <general>: CPythonInvoker(19, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:35.894 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:35.894 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:36.394 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:36.394 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:36.895 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:36.895 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:37.395 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:37.395 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:37.895 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:37.895 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:38.396 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:38.396 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:38.896 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:38.896 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:39.396 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:39.396 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:39.897 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:39.897 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:40.397 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:40.397 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:40.897 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:40.897 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:41.397 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:41.397 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:41.898 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:41.898 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:42.398 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:42.398 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:42.898 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:42.898 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:43.399 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:43.399 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:43.899 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:43.899 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:44.399 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:44.399 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:44.899 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:44.899 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:45.400 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:45.400 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:45.900 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:45.900 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:45.969 T:5962     info <general>: [skin.lucent] tint: no small picture for image://special%3a%2f%2fhome%2faddons%2fplugin.video.fakeseren%2ficon.png/
+2026-10-31 20:10:46.400 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:46.400 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:46.901 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:46.901 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:47.401 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:47.401 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:47.781 T:6013    debug <general>: CPythonInvoker(19, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:10:47.781 T:6013    debug <general>: onExecutionDone(19, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:10:47.795 T:5869     info <general>: [script.lucent.library] widgets: 25 items in 12.1s: plugin://plugin.video.fakeseren/?list=slow2
+2026-10-31 20:10:47.820 T:5555    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=2&r=1793477447.794985&path=plugin://plugin.video.fakeseren/?list=slow]: refreshing..
+2026-10-31 20:10:47.820 T:5786    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '18', '?action=widget&row=2&r=1793477447.794985&path=plugin://plugin.video.fakeseren/?list=slow')
+2026-10-31 20:10:47.821 T:6016    debug <general>: CPythonInvoker(20, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
+2026-10-31 20:10:47.901 T:6016    debug <general>: CPythonInvoker(20, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
+2026-10-31 20:10:47.901 T:6016    debug <general>: CPythonInvoker(20):     /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:47.901 T:6016    debug <general>: CPythonInvoker(20):  plugin://script.lucent.library/
+2026-10-31 20:10:47.901 T:6016    debug <general>: CPythonInvoker(20):  ?action=widget&row=2&r=1793477447.794985&path=plugin://plugin.video.fakeseren/?list=slow
+2026-10-31 20:10:47.901 T:6016    debug <general>: CPythonInvoker(20, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:10:47.901 T:6016    debug <general>: CPythonInvoker(20, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:47.904 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:47.904 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:48.009 T:6016    debug <general>: CPythonInvoker(20, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
+2026-10-31 20:10:48.009 T:6016    debug <general>: onExecutionDone(20, /home/runner/.kodi/addons/script.lucent.library/widget.py)
+2026-10-31 20:10:48.404 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:48.404 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:48.907 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:48.908 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:49.297 T:6017    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '19', '?list=slower')
+2026-10-31 20:10:49.297 T:6018    debug <general>: CPythonInvoker(21, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:10:49.358 T:6018    debug <general>: CPythonInvoker(21, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:10:49.358 T:6018    debug <general>: CPythonInvoker(21):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:49.358 T:6018    debug <general>: CPythonInvoker(21):  plugin://plugin.video.fakeseren/
+2026-10-31 20:10:49.358 T:6018    debug <general>: CPythonInvoker(21, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:10:49.358 T:6018    debug <general>: CPythonInvoker(21, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:10:49.408 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:49.408 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:49.911 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:49.911 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:50.411 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:50.411 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:50.911 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:50.912 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:51.414 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:51.414 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:51.914 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:51.914 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:52.415 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:52.416 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:52.916 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:52.916 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:53.416 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:53.416 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:53.917 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:53.917 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:54.417 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:54.417 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:54.578 T:5807     info <general>: [cidriver] nav: start=8101 toprow=8101 Down->8202 Down->8103 Down->8101 Up->8103 Up->8202 Up->8101
+2026-10-31 20:10:54.919 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:54.919 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:55.419 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:55.419 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:55.922 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:55.923 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:56.423 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:56.423 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:56.923 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:56.923 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:57.423 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:57.423 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:57.925 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:57.925 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:58.425 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:58.425 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:58.925 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:58.925 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:59.426 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:59.426 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:10:59.926 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:10:59.926 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:00.429 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:00.430 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:00.930 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:00.930 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:01.423 T:6018    debug <general>: CPythonInvoker(21, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:11:01.423 T:6018    debug <general>: onExecutionDone(21, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:11:01.433 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:01.434 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:01.440 T:5869     info <general>: [script.lucent.library] widgets: 25 items in 12.1s: plugin://plugin.video.fakeseren/?list=slower
+2026-10-31 20:11:01.934 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:01.934 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:02.379 T:5807     info <general>: [cidriver] back: at=8103 item=4 Back->8103 item=1 Back->8101 item=1 Back->9000 item=1
+2026-10-31 20:11:02.438 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:02.439 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:02.939 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:02.939 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:02.942 T:6022    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '20', '?action=providers')
+2026-10-31 20:11:02.942 T:6023    debug <general>: CPythonInvoker(22, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
+2026-10-31 20:11:03.001 T:6023    debug <general>: CPythonInvoker(22, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
+2026-10-31 20:11:03.001 T:6023    debug <general>: CPythonInvoker(22):     /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:11:03.001 T:6023    debug <general>: CPythonInvoker(22):  plugin://script.lucent.library/
+2026-10-31 20:11:03.001 T:6023    debug <general>: CPythonInvoker(22, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:11:03.001 T:6023    debug <general>: CPythonInvoker(22, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:03.219 T:6023    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
+2026-10-31 20:11:03.282 T:6023    debug <general>: CPythonInvoker(22, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
+2026-10-31 20:11:03.282 T:6023    debug <general>: onExecutionDone(22, /home/runner/.kodi/addons/script.lucent.library/widget.py)
+2026-10-31 20:11:03.295 T:5869     info <general>: [script.lucent.library] widgets: 3 items in 0.4s: plugin://script.lucent.library/?action=providers
+2026-10-31 20:11:03.336 T:5555    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=1&r=1793477463.295263&path=plugin://plugin.video.fakeseren/?list=fast]: refreshing..
+2026-10-31 20:11:03.336 T:5956    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '21', '?action=widget&row=1&r=1793477463.295263&path=plugin://plugin.video.fakeseren/?list=fast')
+2026-10-31 20:11:03.337 T:6024    debug <general>: CPythonInvoker(23, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
+2026-10-31 20:11:03.399 T:6024    debug <general>: CPythonInvoker(23, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
+2026-10-31 20:11:03.399 T:6024    debug <general>: CPythonInvoker(23):     /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:11:03.399 T:6024    debug <general>: CPythonInvoker(23):  plugin://script.lucent.library/
+2026-10-31 20:11:03.399 T:6024    debug <general>: CPythonInvoker(23):  ?action=widget&row=1&r=1793477463.295263&path=plugin://plugin.video.fakeseren/?list=fast
+2026-10-31 20:11:03.399 T:6024    debug <general>: CPythonInvoker(23, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:11:03.399 T:6024    debug <general>: CPythonInvoker(23, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:03.442 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:03.443 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:03.525 T:6024    debug <general>: CPythonInvoker(23, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
+2026-10-31 20:11:03.525 T:6024    debug <general>: onExecutionDone(23, /home/runner/.kodi/addons/script.lucent.library/widget.py)
+2026-10-31 20:11:03.746 T:5555    debug <general>: CGUIMediaWindow::GetDirectory (plugin://plugin.video.fakeseren/?list=folder)
+2026-10-31 20:11:03.746 T:5555    debug <general>:   ParentPath = [plugin://plugin.video.fakeseren/?list=folder]
+2026-10-31 20:11:03.747 T:5786    debug <general>: CAddonDatabase::SetLastUsed[plugin.video.fakeseren] took 1 ms
+2026-10-31 20:11:03.747 T:6026    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '22', '?list=folder')
+2026-10-31 20:11:03.747 T:6027    debug <general>: CPythonInvoker(24, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:11:03.807 T:6027    debug <general>: CPythonInvoker(24, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:11:03.807 T:6027    debug <general>: CPythonInvoker(24):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:03.807 T:6027    debug <general>: CPythonInvoker(24):  plugin://plugin.video.fakeseren/
+2026-10-31 20:11:03.807 T:6027    debug <general>: CPythonInvoker(24, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:03.807 T:6027    debug <general>: CPythonInvoker(24, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:03.880 T:6027    debug <general>: CPythonInvoker(24, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:11:03.880 T:6027    debug <general>: onExecutionDone(24, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:11:03.944 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:03.944 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:04.444 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:04.444 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:04.797 T:5869    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
+2026-10-31 20:11:04.835 T:5869     info <general>: [script.lucent.library] tmdb: prov_8_newmovie: 20 titles
+2026-10-31 20:11:04.945 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:04.945 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:05.445 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:05.445 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:05.945 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:05.945 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:06.337 T:5869    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
+2026-10-31 20:11:06.350 T:5869     info <general>: [script.lucent.library] tmdb: prov_8_poptv: 20 titles
+2026-10-31 20:11:06.445 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:06.445 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:06.946 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:06.946 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:07.446 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:07.446 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:07.853 T:5869    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
+2026-10-31 20:11:07.855 T:5869     info <general>: [script.lucent.library] tmdb: prov_337_poptv: 20 titles
+2026-10-31 20:11:07.946 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:07.946 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:08.433 T:5555    debug <general>: CGUIMediaWindow::GetDirectory (plugin://plugin.video.fakeseren/?list=fast&from=1)
+2026-10-31 20:11:08.433 T:5555    debug <general>:   ParentPath = [plugin://plugin.video.fakeseren/?list=folder]
+2026-10-31 20:11:08.434 T:5957    debug <general>: CAddonDatabase::SetLastUsed[plugin.video.fakeseren] took 1 ms
+2026-10-31 20:11:08.434 T:6030    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '23', '?list=fast&from=1')
+2026-10-31 20:11:08.434 T:6031    debug <general>: CPythonInvoker(25, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:11:08.446 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:08.447 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:08.494 T:6031    debug <general>: CPythonInvoker(25, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:11:08.494 T:6031    debug <general>: CPythonInvoker(25):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:08.494 T:6031    debug <general>: CPythonInvoker(25):  plugin://plugin.video.fakeseren/
+2026-10-31 20:11:08.494 T:6031    debug <general>: CPythonInvoker(25, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:08.494 T:6031    debug <general>: CPythonInvoker(25, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:08.568 T:6031    debug <general>: CPythonInvoker(25, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:11:08.568 T:6031    debug <general>: onExecutionDone(25, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:11:08.947 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:08.947 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:09.358 T:5869    error <general>: EXCEPTION: Unknown addon id 'plugin.video.seren'.
+2026-10-31 20:11:09.361 T:5869     info <general>: [script.lucent.library] tmdb: prov_119_poptv: 20 titles
+2026-10-31 20:11:09.447 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:09.447 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:09.947 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:09.947 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:10.448 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:10.448 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:10.948 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:10.948 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:11.448 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:11.448 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:11.948 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:11.948 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:12.449 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:12.449 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:12.949 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:12.949 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:13.415 T:5807     info <general>: [cidriver] side: window=Videos path=eo.fakeseren/?list=fast&from=1 focus=50 items=25
+2026-10-31 20:11:13.451 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:13.451 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:13.951 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:13.951 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:14.451 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:14.451 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:14.925 T:5807     info <general>: [cidriver] side: 0 after Left focus=2 menu=True
+2026-10-31 20:11:14.952 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:14.952 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:15.452 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:15.452 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:15.952 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:15.952 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:16.452 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:16.452 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:16.951 T:5555    debug <general>: CGUIMediaWindow::GetDirectory (plugin://plugin.video.fakeseren/?list=folder)
+2026-10-31 20:11:16.951 T:5555    debug <general>:   ParentPath = [plugin://plugin.video.fakeseren/]
+2026-10-31 20:11:16.952 T:5957    debug <general>: CAddonDatabase::SetLastUsed[plugin.video.fakeseren] took 1 ms
+2026-10-31 20:11:16.952 T:6034    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '24', '?list=folder')
+2026-10-31 20:11:16.952 T:6035    debug <general>: CPythonInvoker(26, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:11:16.953 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:16.953 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:17.012 T:6035    debug <general>: CPythonInvoker(26, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:11:17.012 T:6035    debug <general>: CPythonInvoker(26):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:17.012 T:6035    debug <general>: CPythonInvoker(26):  plugin://plugin.video.fakeseren/
+2026-10-31 20:11:17.012 T:6035    debug <general>: CPythonInvoker(26, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:17.012 T:6035    debug <general>: CPythonInvoker(26, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:17.089 T:6035    debug <general>: CPythonInvoker(26, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:11:17.089 T:6035    debug <general>: onExecutionDone(26, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:11:17.453 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:17.453 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:17.953 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:17.953 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:18.453 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:18.453 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:18.954 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:18.954 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:19.433 T:5807     info <general>: [cidriver] side: 0 after Back focus=50 menu=False samefolder=False path=n.video.fakeseren/?list=folder window=Videos
+2026-10-31 20:11:19.454 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:19.454 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:19.954 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:19.954 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:20.454 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:20.455 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:20.955 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:20.955 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:20.969 T:5807     info <general>: [cidriver] side: 1 after Left focus=2 menu=True
+2026-10-31 20:11:21.252 T:5555    debug <general>: CDirectoryProvider[videodb://movies/titles/]: refreshing..
+2026-10-31 20:11:21.252 T:5555    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=5&r=1793477429.3988698&path=plugin://script.lucent.library/?action=lib&kind=movies&list=recent]: refreshing..
+2026-10-31 20:11:21.252 T:5957    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '25', '?action=widget&row=5&r=1793477429.3988698&path=plugin://script.lucent.library/?action=lib&kind=movies&list=recent')
+2026-10-31 20:11:21.252 T:6037    debug <general>: CPythonInvoker(27, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
+2026-10-31 20:11:21.334 T:6037    debug <general>: CPythonInvoker(27, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
+2026-10-31 20:11:21.334 T:6037    debug <general>: CPythonInvoker(27):     /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:11:21.334 T:6037    debug <general>: CPythonInvoker(27):  plugin://script.lucent.library/
+2026-10-31 20:11:21.334 T:6037    debug <general>: CPythonInvoker(27):  ?action=widget&row=5&r=1793477429.3988698&path=plugin://script.lucent.library/?action=lib&kind=movies&list=recent
+2026-10-31 20:11:21.334 T:6037    debug <general>: CPythonInvoker(27, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:11:21.334 T:6037    debug <general>: CPythonInvoker(27, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:21.444 T:6037    debug <general>: CPythonInvoker(27, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
+2026-10-31 20:11:21.444 T:6037    debug <general>: onExecutionDone(27, /home/runner/.kodi/addons/script.lucent.library/widget.py)
+2026-10-31 20:11:21.455 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:21.456 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:21.956 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:21.956 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:22.456 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:22.456 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:22.957 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:22.957 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:23.457 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:23.457 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:23.509 T:5807     info <general>: [cidriver] side: 1 after Back focus=8101 menu=False samefolder=False path= window=Home
+2026-10-31 20:11:23.957 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:23.957 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:24.458 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:24.458 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:24.958 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:24.958 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:25.458 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:25.458 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:25.958 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:25.958 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:26.459 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:26.459 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:26.915 T:6041    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '26', '?list=empty')
+2026-10-31 20:11:26.915 T:6042    debug <general>: CPythonInvoker(28, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:11:26.959 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:26.959 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:26.974 T:6042    debug <general>: CPythonInvoker(28, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:11:26.974 T:6042    debug <general>: CPythonInvoker(28):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:26.974 T:6042    debug <general>: CPythonInvoker(28):  plugin://plugin.video.fakeseren/
+2026-10-31 20:11:26.974 T:6042    debug <general>: CPythonInvoker(28, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:26.974 T:6042    debug <general>: CPythonInvoker(28, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:27.037 T:6042    debug <general>: CPythonInvoker(28, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:11:27.037 T:6042    debug <general>: onExecutionDone(28, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:11:27.459 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:27.459 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:27.960 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:27.960 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:28.460 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:28.460 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:28.960 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:28.960 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:29.461 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:29.461 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:29.961 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:29.961 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:30.042 T:6041    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '27', '?list=empty')
+2026-10-31 20:11:30.042 T:6050    debug <general>: CPythonInvoker(29, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:11:30.101 T:6050    debug <general>: CPythonInvoker(29, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:11:30.101 T:6050    debug <general>: CPythonInvoker(29):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:30.101 T:6050    debug <general>: CPythonInvoker(29):  plugin://plugin.video.fakeseren/
+2026-10-31 20:11:30.101 T:6050    debug <general>: CPythonInvoker(29, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:30.101 T:6050    debug <general>: CPythonInvoker(29, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:30.163 T:6050    debug <general>: CPythonInvoker(29, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:11:30.163 T:6050    debug <general>: onExecutionDone(29, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:11:30.169 T:5869     info <general>: [script.lucent.library] widgets: nothing for plugin://plugin.video.fakeseren/?list=empty; kept the saved row, again later
+2026-10-31 20:11:30.461 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:30.461 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:30.519 T:5807     info <general>: [cidriver] power: standard quit=True settings=True c1=False focus=9101
+2026-10-31 20:11:30.961 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:30.961 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:31.462 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:31.462 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:31.595 T:6051    debug <general>: CPythonInvoker(30, special://skin/scripts/powermenu.py): the source file to load is "special://skin/scripts/powermenu.py" ("/home/runner/.kodi/addons/skin.lucent/scripts/powermenu.py")
+2026-10-31 20:11:31.595 T:6051    debug <general>: CPythonInvoker(30):     /home/runner/.kodi/addons/skin.lucent/scripts
+2026-10-31 20:11:31.595 T:6051    debug <general>: CPythonInvoker(30, special://skin/scripts/powermenu.py): entering source directory /home/runner/.kodi/addons/skin.lucent/scripts
+2026-10-31 20:11:31.962 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:31.962 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:32.462 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:32.462 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:32.962 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:32.962 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:33.463 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:33.463 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:33.963 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:33.963 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:34.463 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:34.463 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:34.680 T:6052    debug <general>: CScriptRunner: running add-on script Fake Seren (CI)('plugin://plugin.video.fakeseren/', '28', '?list=flaky')
+2026-10-31 20:11:34.681 T:6053    debug <general>: CPythonInvoker(31, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): start processing
+2026-10-31 20:11:34.740 T:6053    debug <general>: CPythonInvoker(31, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): the source file to load is "/home/runner/.kodi/addons/plugin.video.fakeseren/default.py"
+2026-10-31 20:11:34.740 T:6053    debug <general>: CPythonInvoker(31):     /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:34.740 T:6053    debug <general>: CPythonInvoker(31):  plugin://plugin.video.fakeseren/
+2026-10-31 20:11:34.740 T:6053    debug <general>: CPythonInvoker(31, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): entering source directory /home/runner/.kodi/addons/plugin.video.fakeseren
+2026-10-31 20:11:34.740 T:6053    debug <general>: CPythonInvoker(31, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): instantiating addon using automatically obtained id of "plugin.video.fakeseren" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:34.803 T:6053    debug <general>: CPythonInvoker(31, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py): script successfully run
+2026-10-31 20:11:34.803 T:6053    debug <general>: onExecutionDone(31, /home/runner/.kodi/addons/plugin.video.fakeseren/default.py)
+2026-10-31 20:11:34.810 T:5869     info <general>: [script.lucent.library] widgets: 25 items in 0.1s: plugin://plugin.video.fakeseren/?list=flaky
+2026-10-31 20:11:34.811 T:5555    debug <general>: CDirectoryProvider[plugin://script.lucent.library/?action=widget&row=3&r=1793477494.8104918&path=plugin://plugin.video.fakeseren/?list=fast4]: refreshing..
+2026-10-31 20:11:34.811 T:5786    debug <general>: CScriptRunner: running add-on script Lucent Bibliotheek('plugin://script.lucent.library/', '29', '?action=widget&row=3&r=1793477494.8104918&path=plugin://plugin.video.fakeseren/?list=fast4')
+2026-10-31 20:11:34.811 T:6054    debug <general>: CPythonInvoker(32, /home/runner/.kodi/addons/script.lucent.library/widget.py): start processing
+2026-10-31 20:11:34.901 T:6054    debug <general>: CPythonInvoker(32, /home/runner/.kodi/addons/script.lucent.library/widget.py): the source file to load is "/home/runner/.kodi/addons/script.lucent.library/widget.py"
+2026-10-31 20:11:34.901 T:6054    debug <general>: CPythonInvoker(32):     /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:11:34.901 T:6054    debug <general>: CPythonInvoker(32):  plugin://script.lucent.library/
+2026-10-31 20:11:34.901 T:6054    debug <general>: CPythonInvoker(32):  ?action=widget&row=3&r=1793477494.8104918&path=plugin://plugin.video.fakeseren/?list=fast4
+2026-10-31 20:11:34.901 T:6054    debug <general>: CPythonInvoker(32, /home/runner/.kodi/addons/script.lucent.library/widget.py): entering source directory /home/runner/.kodi/addons/script.lucent.library
+2026-10-31 20:11:34.901 T:6054    debug <general>: CPythonInvoker(32, /home/runner/.kodi/addons/script.lucent.library/widget.py): instantiating addon using automatically obtained id of "script.lucent.library" dependent on version 3.0.0 of the xbmc.python api
+2026-10-31 20:11:34.970 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:34.970 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:35.010 T:6054    debug <general>: CPythonInvoker(32, /home/runner/.kodi/addons/script.lucent.library/widget.py): script successfully run
+2026-10-31 20:11:35.010 T:6054    debug <general>: onExecutionDone(32, /home/runner/.kodi/addons/script.lucent.library/widget.py)
+2026-10-31 20:11:35.470 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:35.470 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:35.539 T:5807     info <general>: [cidriver] power: editor open=True items=['+ Add your own button', "Kodi's own buttons · Exit: shown", "Kodi's own buttons · Power off system: shown", "Kodi's own buttons · Suspend: shown", "Kodi's own buttons · Reboot: shown", "Kodi's own buttons · Log off: shown", "Kodi's own buttons · Inhibit idle shutdown: shown", "Kodi's own buttons · Settings: shown", 'Restore the standard power menu']
+2026-10-31 20:11:35.971 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:35.971 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:36.471 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:36.471 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:36.971 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:36.971 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:37.471 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:37.471 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:37.972 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:37.972 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:38.472 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:38.472 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:38.972 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:38.972 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:39.473 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:39.473 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:39.973 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:39.973 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:40.473 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:40.473 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:40.973 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:40.973 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:41.474 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:41.474 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:41.974 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:41.974 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:42.474 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:42.474 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:42.553 T:5807     info <general>: [cidriver] power: custom quit=False settings=False c1=True:File Manager c2=True:Test, with comma c3=False focus=9121
+2026-10-31 20:11:42.975 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:42.975 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:43.475 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:43.475 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:43.975 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:43.975 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:44.475 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:44.475 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:44.976 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:44.976 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:45.476 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:45.476 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:45.976 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:45.976 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:46.476 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:46.476 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:46.977 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:46.977 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:47.477 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:47.477 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:47.560 T:5807     info <general>: [cidriver] power: c2 click prop=clicked dialog=False
+2026-10-31 20:11:47.981 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:47.982 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:48.482 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:48.482 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:48.982 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:48.982 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:49.483 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:49.483 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:49.983 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:49.983 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:50.483 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:50.483 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:50.987 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:50.987 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:51.490 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:51.491 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:51.991 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:51.991 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:52.491 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:52.491 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:52.992 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:52.992 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:53.492 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:53.492 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:53.637 T:5807     info <general>: [cidriver] power: c1 click filemanager=True dialog=False
+2026-10-31 20:11:53.992 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:53.992 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:54.493 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:54.493 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:54.993 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:54.993 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:55.493 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:55.493 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:55.995 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:55.996 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:56.499 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:56.500 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:57.001 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:57.001 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:57.501 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:57.501 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:57.707 T:6070    debug <general>: CPythonInvoker(33, special://skin/scripts/powermenu.py): the source file to load is "special://skin/scripts/powermenu.py" ("/home/runner/.kodi/addons/skin.lucent/scripts/powermenu.py")
+2026-10-31 20:11:57.707 T:6070    debug <general>: CPythonInvoker(33):     /home/runner/.kodi/addons/skin.lucent/scripts
+2026-10-31 20:11:57.707 T:6070    debug <general>: CPythonInvoker(33, special://skin/scripts/powermenu.py): entering source directory /home/runner/.kodi/addons/skin.lucent/scripts
+2026-10-31 20:11:58.001 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:58.001 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:58.501 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:58.501 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:59.002 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:59.002 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:11:59.502 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:11:59.502 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:00.002 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:00.002 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:00.502 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:00.502 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:00.640 T:5807     info <general>: [cidriver] power: after reset c1='' hidequit=False
+2026-10-31 20:12:00.643 T:5807     info <general>: [cidriver] done
+2026-10-31 20:12:00.644 T:5807    debug <general>: CPythonInvoker(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py): script successfully run
+2026-10-31 20:12:00.644 T:5807    debug <general>: onExecutionDone(1, /home/runner/.kodi/addons/service.lucent.cidriver/service.py)
+2026-10-31 20:12:01.003 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:01.003 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:01.503 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:01.503 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:02.003 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:02.003 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:02.447 T:5555    debug <general>: CServiceAddonManager: stopping script.lucent.library.
+2026-10-31 20:12:02.447 T:5555    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): trigger Monitor abort request
+2026-10-31 20:12:02.447 T:5806    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script successfully run
+2026-10-31 20:12:02.447 T:5806     info <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): waiting on thread 139974527678144
+2026-10-31 20:12:02.504 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:02.504 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:02.547 T:5806    debug <general>: onExecutionDone(0, /home/runner/.kodi/addons/script.lucent.library/service.py)
+2026-10-31 20:12:02.556 T:5555    debug <general>: CPythonInvoker(0, /home/runner/.kodi/addons/script.lucent.library/service.py): script termination took 110ms
+2026-10-31 20:12:02.556 T:5555    debug <general>: CServiceAddonManager: stopping service.lucent.cidriver.
+2026-10-31 20:12:02.556 T:5555     info <general>: CServiceAddonManager: failed to stop service.lucent.cidriver (may have ended)
+2026-10-31 20:12:03.004 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:03.004 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:03.504 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:03.504 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:04.004 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:04.004 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:04.505 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:04.505 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:05.005 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:05.005 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:05.505 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:05.505 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:06.006 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:06.006 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:06.506 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:06.506 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:07.006 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:07.006 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:07.507 T:5596    error <general>: CActiveAESink::OpenSink - no sink was returned
+2026-10-31 20:12:07.507 T:5595    error <general>: ActiveAE::InitSink - returned error
+2026-10-31 20:12:07.567 T:5555    error <general>: CPythonInvoker(5, special://skin/scripts/startup.py): script didn't stop in 5 seconds - let's kill it
