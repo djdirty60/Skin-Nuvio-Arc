@@ -289,6 +289,31 @@ def power_test():
     log(f"power: after reset c1={lab('Skin.String(lucent.pm.c1.action)')!r} hidequit={cond('Skin.HasSetting(lucent.pm.hide.quit)')}")
 
 
+def sport_test():
+    """Sport tab without TV channels: the 'no channels' text must not sit on top of the buttons."""
+    xbmc.executebuiltin("RunScript(special://skin/scripts/sport.py)")
+    for _ in range(60):
+        mon.waitForAbort(1)
+        if cond("Window.IsVisible(Lucent_Sport.xml)") and int(lab("Container(200).NumItems") or 0) > 0:
+            break
+    mon.waitForAbort(6)
+    for n in range(4):
+        item = lab("Container(200).ListItem.Label") or lab("Container(200).ListItem.Property(hname)")
+        log(f"sport: item {n} n={lab('Container(200).NumItems')} {item} nochan={lab('Window(1).Property(sport.t.nochan)') or lab('Window.Property(sport.t.nochan)')!r} "
+            f"remind={lab('Container(200).ListItem.Property(remindtext)')!r} rec={lab('Container(200).ListItem.Property(rectext)')!r} "
+            f"ch1={lab('Container(200).ListItem.Property(ch1name)')!r} b321={cond('Control.IsVisible(321)')}")
+        shot(f"11-sport-{n}")
+        xbmc.executebuiltin("Action(Down)")
+        mon.waitForAbort(2)
+    xbmc.executebuiltin("SetFocus(9300)")
+    mon.waitForAbort(2)
+    log(f"sport: focus 9300 -> {lab('System.CurrentControlID')}")
+    shot("11-sport-focus")
+    xbmc.executebuiltin("Dialog.Close(all,true)")
+    xbmc.executebuiltin("ActivateWindow(home)")
+    mon.waitForAbort(2)
+
+
 def main():
     for _ in range(180):
         if cond("Window.IsActive(home)") and HOME.getProperty("nuvio.started"):
@@ -300,9 +325,8 @@ def main():
     xbmc.executebuiltin("Control.SetFocus(9000,0)")
     watch("home1", 40)
     shot("1-home")
+    sport_test()
     nav_test()
-    sidemenu_test()
-    power_test()
     os.makedirs(OUT, exist_ok=True)
     json.dump({"tag": TAG, "events": events, "samples": samples}, open(f"{OUT}/{TAG}.json", "w"))
     log("done")

@@ -177,8 +177,10 @@
 <texturenofocus border="20" colordiffuse="glass_strong">rr20.png</texturenofocus>
 <visible>!String.IsEmpty(Window.Property(sport.preview))</visible></control>
 </control>
-<control type="label"><left>1340</left><top>708</top><width>600</width><height>36</height><font>font10</font><textcolor>text3</textcolor><label>$INFO[Window.Property(sport.t.nochan)]</label><visible>String.IsEmpty(Container(200).ListItem.Property(ch1name))</visible></control>
+<!-- no channels: the reason sits under the buttons (two lines) and the follow buttons move down to make room -->
+<control type="label"><left>1340</left><top>756</top><width>580</width><height>64</height><font>font_tiny</font><textcolor>text3</textcolor><wrapmultiline>true</wrapmultiline><aligny>top</aligny><label>$INFO[Window.Property(sport.t.nochan)]</label><visible>String.IsEmpty(Container(200).ListItem.Property(ch1name))</visible></control>
 <control type="grouplist" id="9300"><left>1340</left><top>756</top><width>600</width><height>246</height><orientation>vertical</orientation><itemgap>5</itemgap><onleft>200</onleft><onup>9310</onup>
+<animation effect="slide" start="0,0" end="0,72" time="0" condition="String.IsEmpty(Container(200).ListItem.Property(ch1name))">Conditional</animation>
 <control type="button" id="311"><width>580</width><height>44</height>
 <font>font10_bold</font><textoffsetx>20</textoffsetx>
 <label>$INFO[Container(200).ListItem.Property(ch1name)]</label><label2>$INFO[Container(200).ListItem.Property(ch1sub)]</label2>
